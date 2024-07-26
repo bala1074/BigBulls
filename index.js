@@ -3,6 +3,14 @@
 const RECENT_QUARTER = "Jun 2024";
 const PAST_QUARTER = "Mar 2024";
 
+const HNI = [
+  "https://www.screener.in/people/30960/madhuri-madhusudan-kela/",
+  "https://www.screener.in/people/7377/vijay-kishanlal-kedia/",
+  "https://www.screener.in/people/4101/akash-bhanshali/",
+  "https://www.screener.in/people/127675/mukul-mahavir-agrawal/",
+  "https://www.screener.in/people/127736/ashish-rameshchandra-kacholia/",
+];
+
 const DII = [
   "https://www.screener.in/people/97814/parag-parikh-flexi-cap-fund/",
   "https://www.screener.in/people/144848/mirae-asset-large-midcap-fund/",
@@ -19,7 +27,14 @@ const FII = [
   "https://www.screener.in/people/1555/jupiter-india-fund/",
 ];
 
-const BIGBULLS = [...DII, ...FII];
+const BIGBULLS = {};
+for (const url of [...HNI, ...DII, ...FII]) {
+  let investorType = "";
+  if (HNI.includes(url)) investorType = "HNI";
+  if (DII.includes(url)) investorType = "DII";
+  if (FII.includes(url)) investorType = "FII";
+  BIGBULLS[url] = investorType;
+}
 
 const puppeteer = require("puppeteer");
 const HtmlTableToJson = require("html-table-to-json");
@@ -55,18 +70,25 @@ async function fetchFromUrl(page, url) {
   for (const item of HtmlTableToJson.parse(tableHTML)?.results[0]) {
     formatVals[item["1"]] = { [key]: item };
   }
-  return formatVals;
+  return formatVals; // { company: {} }
 }
 
 async function fetchBigBulls(page) {
   let result = {};
-  for (const url of BIGBULLS) {
+  for (const url in BIGBULLS) {
+    const investorType = BIGBULLS[url];
     const res = await fetchFromUrl(page, url);
     for (const key in res) {
       if (result[key]) {
-        result[key] = { ...result[key], ...res[key] };
+        result[key] = {
+          fundHouses: { ...result[key].fundHouses, ...res[key] },
+          investorType: [...result[key].investorType, investorType],
+        };
       } else {
-        result[key] = { ...res[key] };
+        result[key] = {
+          fundHouses: { ...res[key] },
+          investorType: [investorType],
+        };
       }
     }
   }
@@ -82,12 +104,13 @@ function performCalc(result) {
   for (const company in result) {
     finalResult[company] = {
       company,
+      investorType: [...new Set(result[company]?.investorType)],
       investedBy: [],
       recentAdds: [],
       recentDels: [],
     };
 
-    const fundHouses = result[company];
+    const fundHouses = result[company]?.fundHouses;
     for (const fundName in fundHouses) {
       const fundDetails = fundHouses[fundName];
       finalResult[company].investedBy.push(fundName);
@@ -111,11 +134,14 @@ function performCalc(result) {
 }
 
 function log(res, type) {
+  // `Company,Type,InvestedBy,RecentAdds,RecentDels,investorTypeCount,investorType,InvestedByList,RecentAddsList,RecentDelsList`;
   for (const item of res) {
     console.log(
       `${item.company},${type},${item.investedBy.length},${
         item.recentAdds.length
-      },${item.recentDels.length},${item.investedBy?.join(
+      },${item.recentDels.length},${
+        item.investorType.length
+      },${item.investorType?.join(" | ")},${item.investedBy?.join(
         " | "
       )},${item.recentAdds?.join(" | ")},${item.recentDels?.join(" | ")}`
     );
@@ -124,7 +150,7 @@ function log(res, type) {
 
 function logRes(res) {
   console.log(
-    `Company,Type,InvestedBy,RecentAdds,RecentDels,InvestedByList,RecentAddsList,RecentDelsList`
+    `Company,Type,InvestedBy,RecentAdds,RecentDels,investorTypeCount,investorType,InvestedByList,RecentAddsList,RecentDelsList`
   );
   // recent adds
   let recentAdds = [...res];
@@ -160,7 +186,7 @@ async function goBigBull() {
 
   await login(page);
 
-  const result = await fetchBigBulls(page);
+  const result = await fetchBigBulls(page); // { company: {fundHouses:{F1: {}, F2:{}}, investorType:['FII','DII'...]}}
 
   const calcRes = performCalc(result);
 
