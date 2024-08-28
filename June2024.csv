@@ -1,804 +1,807 @@
-Company,Type,InvestedBy,RecentAdds,RecentDels,investorTypeCount,investorType,InvestedByList,RecentAddsList,RecentDelsList
-Coforge,RecentAdd,5,2,1,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,Kotak Emergency Equity Scheme
-Neuland Labs.,RecentAdd,4,2,0,2,HNI | FII,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia | Small Cap World Fund Inc | Jupiter India Fund,Small Cap World Fund Inc | Jupiter India Fund,
-Ipca Labs.,RecentAdd,4,2,0,2,DII | FII,Parag Parikh Flexi Cap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme,
-Gland Pharma,RecentAdd,4,2,0,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Small Cap World Fund Inc,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,
-Dilip Buildcon,RecentAdd,3,2,0,3,HNI | DII | FII,Akash Bhanshali | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,Akash Bhanshali | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,
-Ethos Ltd,RecentAdd,3,2,1,2,HNI | FII,Mukul Mahavir Agrawal | Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,Mukul Mahavir Agrawal
-Delhivery,RecentAdd,2,2,0,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Small Cap World Fund Inc,Mirae Asset Large &amp; Midcap Fund | Small Cap World Fund Inc,
-Cartrade Tech,RecentAdd,2,2,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,
-Balrampur Chini,RecentAdd,4,1,0,3,HNI | DII | FII,Akash Bhanshali | Quant Mutual Fund - Quant Small Cap Fund | Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P,Quant Mutual Fund - Quant Small Cap Fund,
-Ramkrishna Forg.,RecentAdd,4,1,0,3,HNI | DII | FII,Akash Bhanshali | Kotak Emergency Equity Scheme | Massachusetts Institue of Technology | Small Cap World Fund Inc,Small Cap World Fund Inc,
-Indian Energy Ex,RecentAdd,4,1,0,2,DII | FII,Parag Parikh Flexi Cap Fund | Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,Massachusetts Institue of Technology,
-Amber Enterp.,RecentAdd,3,1,0,3,HNI | DII | FII,Akash Bhanshali | Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-J Kumar Infra,RecentAdd,3,1,0,3,HNI | DII | FII,Mukul Mahavir Agrawal | 3P India Equity Fund 1 | Goldman Sachs Funds - Goldman Sachs India Equity P,3P India Equity Fund 1,
-MSTC,RecentAdd,3,1,0,2,HNI | FII,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia | Jupiter India Fund,Jupiter India Fund,
-Page Industries,RecentAdd,3,1,0,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Kotak Emergency Equity Scheme | Small Cap World Fund Inc,Mirae Asset Large &amp; Midcap Fund,
-PB Fintech.,RecentAdd,3,1,2,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Mirae Asset Large &amp; Midcap Fund | Small Cap World Fund Inc
-Cummins India,RecentAdd,3,1,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Small Cap World Fund Inc,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Kotak Emergency Equity Scheme
-H P C L,RecentAdd,3,1,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Jupiter India Fund,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Kotak Emergency Equity Scheme
-Kajaria Ceramics,RecentAdd,3,1,0,2,DII | FII,Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,Kotak Emergency Equity Scheme,
-CMS Info Systems,RecentAdd,3,1,0,1,FII,Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,Goldman Sachs Funds - Goldman Sachs India Equity P,
-Mahindra Holiday,RecentAdd,2,1,0,2,HNI | DII,Vijay Kishanlal Kedia | 3P India Equity Fund 1,3P India Equity Fund 1,
-Vaibhav Global,RecentAdd,2,1,1,1,HNI,Vijay Kishanlal Kedia | Ashish Rameshchandra Kacholia,Vijay Kishanlal Kedia,Ashish Rameshchandra Kacholia
-Mah. Seamless,RecentAdd,2,1,0,2,HNI | DII,Akash Bhanshali | Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
-Usha Martin,RecentAdd,2,1,0,2,HNI | DII,Akash Bhanshali | Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
-Capacit'e Infra.,RecentAdd,2,1,0,2,HNI | FII,Mukul Mahavir Agrawal | Goldman Sachs Funds - Goldman Sachs India Equity P,Mukul Mahavir Agrawal,
-Lux Industries,RecentAdd,2,1,0,2,HNI | FII,Mukul Mahavir Agrawal | Jupiter India Fund,Mukul Mahavir Agrawal,
-Barbeque-Nation,RecentAdd,2,1,1,2,HNI | FII,Ashish Rameshchandra Kacholia | Massachusetts Institue of Technology,Massachusetts Institue of Technology,Ashish Rameshchandra Kacholia
-Gravita India,RecentAdd,2,1,1,2,HNI | FII,Ashish Rameshchandra Kacholia | Jupiter India Fund,Jupiter India Fund,Ashish Rameshchandra Kacholia
-SJS Enterprises,RecentAdd,2,1,0,2,HNI | FII,Ashish Rameshchandra Kacholia | Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-Time Technoplast,RecentAdd,2,1,0,2,HNI | DII,Ashish Rameshchandra Kacholia | 3P India Equity Fund 1,3P India Equity Fund 1,
-Balkrishna Inds,RecentAdd,2,1,0,1,DII,Parag Parikh Flexi Cap Fund | Kotak Emergency Equity Scheme,Parag Parikh Flexi Cap Fund,
-Bharat Forge,RecentAdd,2,1,0,1,DII,Mirae Asset Large &amp; Midcap Fund | Kotak Emergency Equity Scheme,Mirae Asset Large &amp; Midcap Fund,
-Guj.St.Petronet,RecentAdd,2,1,0,1,DII,Mirae Asset Large &amp; Midcap Fund | Kotak Emergency Equity Scheme,Mirae Asset Large &amp; Midcap Fund,
-L&T Finance Ltd,RecentAdd,2,1,0,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Small Cap World Fund Inc,Mirae Asset Large &amp; Midcap Fund,
-Whirlpool India,RecentAdd,2,1,1,1,DII,Mirae Asset Large &amp; Midcap Fund | Kotak Emergency Equity Scheme,Mirae Asset Large &amp; Midcap Fund,Kotak Emergency Equity Scheme
-Landmark Cars,RecentAdd,2,1,1,2,DII | FII,3P India Equity Fund 1 | Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,3P India Equity Fund 1
-AIA Engineering,RecentAdd,2,1,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | NALANDA INDIA EQUITY FUND nLIMITED,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,NALANDA INDIA EQUITY FUND nLIMITED
-AU Small Finance,RecentAdd,2,1,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Small Cap World Fund Inc
-Persistent Sys,RecentAdd,2,1,0,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme,Kotak Emergency Equity Scheme,
-City Union Bank,RecentAdd,2,1,0,2,DII | FII,Kotak Emergency Equity Scheme | Small Cap World Fund Inc,Small Cap World Fund Inc,
-Ratnamani Metals,RecentAdd,2,1,1,2,DII | FII,Kotak Emergency Equity Scheme | NALANDA INDIA EQUITY FUND nLIMITED,Kotak Emergency Equity Scheme,NALANDA INDIA EQUITY FUND nLIMITED
-INDIA SHELTE FIN,RecentAdd,2,1,1,2,DII | FII,Quant Mutual Fund - Quant Small Cap Fund | Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,Quant Mutual Fund - Quant Small Cap Fund
-Thyrocare Tech.,RecentAdd,2,1,0,2,DII | FII,Quant Mutual Fund - Quant Small Cap Fund | NALANDA INDIA EQUITY FUND nLIMITED,Quant Mutual Fund - Quant Small Cap Fund,
-Mahindra Life.,RecentAdd,2,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,Goldman Sachs Funds - Goldman Sachs India Equity P,
-PVR Inox,RecentAdd,2,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,Goldman Sachs Funds - Goldman Sachs India Equity P,
-Global Vectra,RecentAdd,1,1,0,1,HNI,Vijay Kishanlal Kedia,Vijay Kishanlal Kedia,
-One 97,RecentAdd,1,1,0,1,HNI,Akash Bhanshali,Akash Bhanshali,
-Hind Rectifiers,RecentAdd,1,1,0,1,HNI,Mukul Mahavir Agrawal,Mukul Mahavir Agrawal,
-ISMT,RecentAdd,1,1,0,1,HNI,Mukul Mahavir Agrawal,Mukul Mahavir Agrawal,
-Bajaj Holdings,RecentAdd,1,1,0,1,DII,Parag Parikh Flexi Cap Fund,Parag Parikh Flexi Cap Fund,
-C D S L,RecentAdd,1,1,0,1,DII,Parag Parikh Flexi Cap Fund,Parag Parikh Flexi Cap Fund,
-Coal India,RecentAdd,1,1,0,1,DII,Parag Parikh Flexi Cap Fund,Parag Parikh Flexi Cap Fund,
-Mah. Scooters,RecentAdd,1,1,0,1,DII,Parag Parikh Flexi Cap Fund,Parag Parikh Flexi Cap Fund,
-Craftsman Auto,RecentAdd,1,1,0,1,DII,Mirae Asset Large &amp; Midcap Fund,Mirae Asset Large &amp; Midcap Fund,
-Deepak Nitrite,RecentAdd,1,1,0,1,DII,Mirae Asset Large &amp; Midcap Fund,Mirae Asset Large &amp; Midcap Fund,
-Go Digit General,RecentAdd,1,1,0,1,DII,Mirae Asset Large &amp; Midcap Fund,Mirae Asset Large &amp; Midcap Fund,
-Lupin,RecentAdd,1,1,0,1,DII,Mirae Asset Large &amp; Midcap Fund,Mirae Asset Large &amp; Midcap Fund,
-Jindal Steel,RecentAdd,1,1,0,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,
-KNR Construct.,RecentAdd,1,1,0,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,
-Blue Star,RecentAdd,1,1,0,1,DII,Kotak Emergency Equity Scheme,Kotak Emergency Equity Scheme,
-Emami,RecentAdd,1,1,0,1,DII,Kotak Emergency Equity Scheme,Kotak Emergency Equity Scheme,
-Oberoi Realty,RecentAdd,1,1,0,1,DII,Kotak Emergency Equity Scheme,Kotak Emergency Equity Scheme,
-Aarti Pharma,RecentAdd,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
-Apeejay Surrend.,RecentAdd,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
-Engineers India,RecentAdd,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
-Exicom Tele-Sys.,RecentAdd,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
-H U D C O,RecentAdd,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
-Indrapr.Medical,RecentAdd,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
-Jubilant Pharmo,RecentAdd,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
-Prime Securities,RecentAdd,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
-S C I,RecentAdd,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
-Archean Chemical,RecentAdd,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-Gokaldas Exports,RecentAdd,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-Inox India,RecentAdd,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-ISGEC Heavy,RecentAdd,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-JK Lakshmi Cem.,RecentAdd,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-Jupiter Life Lin,RecentAdd,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-KFin Technolog.,RecentAdd,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-Medplus Health,RecentAdd,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-Rategain Travel,RecentAdd,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-Spandana Sphoort,RecentAdd,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-Suven Pharma,RecentAdd,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-Zensar Tech.,RecentAdd,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-Aptus Value Hou.,RecentAdd,1,1,0,1,FII,Small Cap World Fund Inc,Small Cap World Fund Inc,
-Entero Healthcar,RecentAdd,1,1,0,1,FII,Small Cap World Fund Inc,Small Cap World Fund Inc,
-IIFL Finance,RecentAdd,1,1,0,1,FII,Small Cap World Fund Inc,Small Cap World Fund Inc,
-Inox Wind,RecentAdd,1,1,0,1,FII,Small Cap World Fund Inc,Small Cap World Fund Inc,
-Manappuram Fin.,RecentAdd,1,1,0,1,FII,Small Cap World Fund Inc,Small Cap World Fund Inc,
-Medi Assist Ser.,RecentAdd,1,1,0,1,FII,Jupiter India Fund,Jupiter India Fund,
-Yatharth Hospit.,RecentAdd,1,1,0,1,FII,Jupiter India Fund,Jupiter India Fund,
-Atul,RecentDel,3,0,3,1,DII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme,,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme
-Laurus Labs,RecentDel,4,0,2,3,HNI | DII | FII,Akash Bhanshali | Mirae Asset Large &amp; Midcap Fund | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,Mirae Asset Large &amp; Midcap Fund | Small Cap World Fund Inc
-PB Fintech.,RecentDel,3,1,2,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Mirae Asset Large &amp; Midcap Fund | Small Cap World Fund Inc
-SKF India,RecentDel,3,0,2,1,DII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme,,Mirae Asset Large &amp; Midcap Fund | Kotak Emergency Equity Scheme
-Shankara Build.,RecentDel,2,0,2,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia
-Aditya Vision,RecentDel,2,0,2,2,HNI | FII,Ashish Rameshchandra Kacholia | Small Cap World Fund Inc,,Ashish Rameshchandra Kacholia | Small Cap World Fund Inc
-NIIT Learning,RecentDel,2,0,2,2,HNI | FII,Ashish Rameshchandra Kacholia | Massachusetts Institue of Technology,,Ashish Rameshchandra Kacholia | Massachusetts Institue of Technology
-Tata Comm,RecentDel,2,0,2,1,DII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
-Solar Industries,RecentDel,2,0,2,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme
-PNC Infratech,RecentDel,2,0,2,2,DII | FII,Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P,,Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P
-V-Guard Industri,RecentDel,2,0,2,2,DII | FII,Kotak Emergency Equity Scheme | NALANDA INDIA EQUITY FUND nLIMITED,,Kotak Emergency Equity Scheme | NALANDA INDIA EQUITY FUND nLIMITED
-Bajaj Consumer,RecentDel,2,0,2,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,,Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund
-MRF,RecentDel,2,0,2,1,FII,Small Cap World Fund Inc | NALANDA INDIA EQUITY FUND nLIMITED,,Small Cap World Fund Inc | NALANDA INDIA EQUITY FUND nLIMITED
-Coforge,RecentDel,5,2,1,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,Kotak Emergency Equity Scheme
-Repro India,RecentDel,4,0,1,1,HNI,Madhuri Madhusudan Kela | Vijay Kishanlal Kedia | Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
-Delta Corp,RecentDel,4,0,1,3,HNI | DII | FII,Mukul Mahavir Agrawal | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
-KEI Industries,RecentDel,4,0,1,2,HNI | FII,Ashish Rameshchandra Kacholia | Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,Small Cap World Fund Inc
-Matrimony.com,RecentDel,4,0,1,1,FII,Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc | NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-Prism Johnson,RecentDel,3,0,1,2,HNI | FII,Akash Bhanshali | Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,,Jupiter India Fund
-Ethos Ltd,RecentDel,3,2,1,2,HNI | FII,Mukul Mahavir Agrawal | Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,Mukul Mahavir Agrawal
-Newgen Software,RecentDel,3,0,1,2,HNI | FII,Mukul Mahavir Agrawal | Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P,,Goldman Sachs Funds - Goldman Sachs India Equity P
-Sula Vineyards,RecentDel,3,0,1,2,HNI | FII,Mukul Mahavir Agrawal | Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,,Goldman Sachs Funds - Goldman Sachs India Equity P
-Cummins India,RecentDel,3,1,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Small Cap World Fund Inc,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Kotak Emergency Equity Scheme
-Dixon Technolog.,RecentDel,3,0,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P,,Kotak Emergency Equity Scheme
-H P C L,RecentDel,3,1,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Jupiter India Fund,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Kotak Emergency Equity Scheme
-Amara Raja Ener.,RecentDel,3,0,1,2,DII | FII,Kotak Emergency Equity Scheme | Small Cap World Fund Inc | NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-Thermax,RecentDel,3,0,1,2,DII | FII,Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P | NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-Va Tech Wabag,RecentDel,3,0,1,2,DII | FII,Quant Mutual Fund - Quant Small Cap Fund | Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P,,Quant Mutual Fund - Quant Small Cap Fund
-Cera Sanitary.,RecentDel,2,0,1,2,HNI | FII,Vijay Kishanlal Kedia | NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-Vaibhav Global,RecentDel,2,1,1,1,HNI,Vijay Kishanlal Kedia | Ashish Rameshchandra Kacholia,Vijay Kishanlal Kedia,Ashish Rameshchandra Kacholia
-Arvind Fashions.,RecentDel,2,0,1,1,HNI,Akash Bhanshali | Ashish Rameshchandra Kacholia,,Akash Bhanshali
-Greenlam Industr,RecentDel,2,0,1,2,HNI | DII,Akash Bhanshali | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
-Natco Pharma,RecentDel,2,0,1,2,HNI | DII,Akash Bhanshali | Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
-Allcargo Gati,RecentDel,2,0,1,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Mukul Mahavir Agrawal
-Apollo Pipes,RecentDel,2,0,1,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Mukul Mahavir Agrawal
-CEAT,RecentDel,2,0,1,2,HNI | DII,Mukul Mahavir Agrawal | Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
-Hindware Home In,RecentDel,2,0,1,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Mukul Mahavir Agrawal
-Sequent Scien.,RecentDel,2,0,1,2,HNI | DII,Mukul Mahavir Agrawal | Quant Mutual Fund - Quant Small Cap Fund,,Quant Mutual Fund - Quant Small Cap Fund
-SG Finserve,RecentDel,2,0,1,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
-Shaily Engineer.,RecentDel,2,0,1,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
-Zen Technologies,RecentDel,2,0,1,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Mukul Mahavir Agrawal
-Ami Organics,RecentDel,2,0,1,2,HNI | FII,Ashish Rameshchandra Kacholia | Small Cap World Fund Inc,,Ashish Rameshchandra Kacholia
-Barbeque-Nation,RecentDel,2,1,1,2,HNI | FII,Ashish Rameshchandra Kacholia | Massachusetts Institue of Technology,Massachusetts Institue of Technology,Ashish Rameshchandra Kacholia
-Gravita India,RecentDel,2,1,1,2,HNI | FII,Ashish Rameshchandra Kacholia | Jupiter India Fund,Jupiter India Fund,Ashish Rameshchandra Kacholia
-NIIT,RecentDel,2,0,1,2,HNI | FII,Ashish Rameshchandra Kacholia | Massachusetts Institue of Technology,,Massachusetts Institue of Technology
-EID Parry,RecentDel,2,0,1,1,DII,Parag Parikh Flexi Cap Fund | Quant Mutual Fund - Quant Small Cap Fund,,Quant Mutual Fund - Quant Small Cap Fund
-Prestige Estates,RecentDel,2,0,1,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Goldman Sachs Funds - Goldman Sachs India Equity P,,Mirae Asset Large &amp; Midcap Fund
-Whirlpool India,RecentDel,2,1,1,1,DII,Mirae Asset Large &amp; Midcap Fund | Kotak Emergency Equity Scheme,Mirae Asset Large &amp; Midcap Fund,Kotak Emergency Equity Scheme
-Landmark Cars,RecentDel,2,1,1,2,DII | FII,3P India Equity Fund 1 | Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,3P India Equity Fund 1
-AIA Engineering,RecentDel,2,1,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | NALANDA INDIA EQUITY FUND nLIMITED,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,NALANDA INDIA EQUITY FUND nLIMITED
-AU Small Finance,RecentDel,2,1,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Small Cap World Fund Inc
-Max Healthcare,RecentDel,2,0,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,,Small Cap World Fund Inc
-Redington,RecentDel,2,0,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Massachusetts Institue of Technology,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
-Ratnamani Metals,RecentDel,2,1,1,2,DII | FII,Kotak Emergency Equity Scheme | NALANDA INDIA EQUITY FUND nLIMITED,Kotak Emergency Equity Scheme,NALANDA INDIA EQUITY FUND nLIMITED
-Sheela Foam,RecentDel,2,0,1,2,DII | FII,Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P,,Kotak Emergency Equity Scheme
-Sundaram Finance,RecentDel,2,0,1,2,DII | FII,Kotak Emergency Equity Scheme | NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-INDIA SHELTE FIN,RecentDel,2,1,1,2,DII | FII,Quant Mutual Fund - Quant Small Cap Fund | Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,Quant Mutual Fund - Quant Small Cap Fund
-Metropolis Healt,RecentDel,2,0,1,2,DII | FII,Quant Mutual Fund - Quant Small Cap Fund | Small Cap World Fund Inc,,Quant Mutual Fund - Quant Small Cap Fund
-NCC,RecentDel,2,0,1,1,FII,Massachusetts Institue of Technology | Small Cap World Fund Inc,,Small Cap World Fund Inc
-Angel One,RecentDel,2,0,1,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,Small Cap World Fund Inc
-Havells India,RecentDel,2,0,1,1,FII,Small Cap World Fund Inc | NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-Triveni Turbine,RecentDel,2,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED | Jupiter India Fund,,NALANDA INDIA EQUITY FUND nLIMITED
-Samhi Hotels,RecentDel,1,0,1,1,HNI,Madhuri Madhusudan Kela,,Madhuri Madhusudan Kela
-T R I L,RecentDel,1,0,1,1,HNI,Madhuri Madhusudan Kela,,Madhuri Madhusudan Kela
-Affordable Robo.,RecentDel,1,0,1,1,HNI,Vijay Kishanlal Kedia,,Vijay Kishanlal Kedia
-Talbros Auto.,RecentDel,1,0,1,1,HNI,Vijay Kishanlal Kedia,,Vijay Kishanlal Kedia
-Schneider Elect.,RecentDel,1,0,1,1,HNI,Akash Bhanshali,,Akash Bhanshali
-Shilpa Medicare,RecentDel,1,0,1,1,HNI,Akash Bhanshali,,Akash Bhanshali
-Sterlite Tech.,RecentDel,1,0,1,1,HNI,Akash Bhanshali,,Akash Bhanshali
-Concord Control,RecentDel,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
-Dhabriya Poly.,RecentDel,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
-Dish TV India,RecentDel,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
-Indian Metals,RecentDel,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
-InfoBeans Tech.,RecentDel,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
-Jagsonpal Pharma,RecentDel,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
-Nuvama Wealth,RecentDel,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
-Thejo Engg.,RecentDel,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
-Tracxn Technolo.,RecentDel,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
-Zota Health Care,RecentDel,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
-Ador Welding,RecentDel,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
-DU Digital,RecentDel,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
-Fineotex Chem,RecentDel,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
-Garware Hi Tech,RecentDel,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
-HLE Glascoat,RecentDel,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
-Inflame Applian.,RecentDel,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
-Knowledge Marine,RecentDel,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
-PCBL Ltd,RecentDel,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
-Sastasundar Ven.,RecentDel,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
-Virtuoso Optoel.,RecentDel,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
-Indraprastha Gas,RecentDel,1,0,1,1,DII,Parag Parikh Flexi Cap Fund,,Parag Parikh Flexi Cap Fund
-Motil.Oswal.Fin.,RecentDel,1,0,1,1,DII,Parag Parikh Flexi Cap Fund,,Parag Parikh Flexi Cap Fund
-Power Grid Corpn,RecentDel,1,0,1,1,DII,Parag Parikh Flexi Cap Fund,,Parag Parikh Flexi Cap Fund
-Bayer Crop Sci.,RecentDel,1,0,1,1,DII,Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
-Data Pattern,RecentDel,1,0,1,1,DII,Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
-Eicher Motors,RecentDel,1,0,1,1,DII,Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
-Prince Pipes,RecentDel,1,0,1,1,DII,Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
-Sapphire Foods,RecentDel,1,0,1,1,DII,Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
-Arvind Ltd,RecentDel,1,0,1,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
-Bharat Electron,RecentDel,1,0,1,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
-Greenpanel Inds.,RecentDel,1,0,1,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
-K E C Intl.,RecentDel,1,0,1,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
-Symphony,RecentDel,1,0,1,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
-Tata Chemicals,RecentDel,1,0,1,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
-Kewal Kir.Cloth.,RecentDel,1,0,1,1,DII,Kotak Emergency Equity Scheme,,Kotak Emergency Equity Scheme
-Schaeffler India,RecentDel,1,0,1,1,DII,Kotak Emergency Equity Scheme,,Kotak Emergency Equity Scheme
-Britannia Inds.,RecentDel,1,0,1,1,DII,Quant Mutual Fund - Quant Small Cap Fund,,Quant Mutual Fund - Quant Small Cap Fund
-Jash Engineering,RecentDel,1,0,1,1,DII,Quant Mutual Fund - Quant Small Cap Fund,,Quant Mutual Fund - Quant Small Cap Fund
-Vishnu Prakash R,RecentDel,1,0,1,1,DII,Quant Mutual Fund - Quant Small Cap Fund,,Quant Mutual Fund - Quant Small Cap Fund
-Action Const.Eq.,RecentDel,1,0,1,1,FII,Massachusetts Institue of Technology,,Massachusetts Institue of Technology
-Equitas Sma. Fin,RecentDel,1,0,1,1,FII,Massachusetts Institue of Technology,,Massachusetts Institue of Technology
-Globus Spirits,RecentDel,1,0,1,1,FII,Massachusetts Institue of Technology,,Massachusetts Institue of Technology
-ITD Cem,RecentDel,1,0,1,1,FII,Massachusetts Institue of Technology,,Massachusetts Institue of Technology
-Star Health Insu,RecentDel,1,0,1,1,FII,Massachusetts Institue of Technology,,Massachusetts Institue of Technology
-360 ONE,RecentDel,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
-AAVAS Financiers,RecentDel,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
-Aegis Logistics,RecentDel,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
-Cholaman.Inv.&Fn,RecentDel,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
-Five-Star Bus.Fi,RecentDel,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
-Glenmark Pharma.,RecentDel,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
-Home First Finan,RecentDel,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
-SIS,RecentDel,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
-Tanla Platforms,RecentDel,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
-Titagarh Rail,RecentDel,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
-Tube Investments,RecentDel,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
-Advanced Enzyme,RecentDel,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-Ahluwalia Contr.,RecentDel,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-D B Corp,RecentDel,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-Elgi Equipments,RecentDel,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-GE Shipping Co,RecentDel,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-Info Edg.(India),RecentDel,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-Jyothy Labs,RecentDel,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-NRB Bearings,RecentDel,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-TTK Prestige,RecentDel,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-Volt.Transform.,RecentDel,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-Godfrey Phillips,RecentDel,1,0,1,1,FII,Jupiter India Fund,,Jupiter India Fund
-Milkfood,RecentDel,1,0,1,1,FII,Jupiter India Fund,,Jupiter India Fund
-Bombay Dyeing,ALL,1,0,0,1,HNI,Madhuri Madhusudan Kela,,
-Indostar Capital,ALL,2,0,0,2,HNI | FII,Madhuri Madhusudan Kela | Jupiter India Fund,,
-IRIS Business,ALL,1,0,0,1,HNI,Madhuri Madhusudan Kela,,
-Kopran,ALL,1,0,0,1,HNI,Madhuri Madhusudan Kela,,
-Niyogin Fintech,ALL,1,0,0,1,HNI,Madhuri Madhusudan Kela,,
-Radico Khaitan,ALL,4,0,0,2,HNI | FII,Madhuri Madhusudan Kela | Mukul Mahavir Agrawal | Massachusetts Institue of Technology | Small Cap World Fund Inc,,
-Rashi Peripheral,ALL,1,0,0,1,HNI,Madhuri Madhusudan Kela,,
-Repro India,ALL,4,0,1,1,HNI,Madhuri Madhusudan Kela | Vijay Kishanlal Kedia | Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
-Samhi Hotels,ALL,1,0,1,1,HNI,Madhuri Madhusudan Kela,,Madhuri Madhusudan Kela
-Sangam India,ALL,1,0,0,1,HNI,Madhuri Madhusudan Kela,,
-T R I L,ALL,1,0,1,1,HNI,Madhuri Madhusudan Kela,,Madhuri Madhusudan Kela
-ABC Bearings,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
-Affordable Robo.,ALL,1,0,1,1,HNI,Vijay Kishanlal Kedia,,Vijay Kishanlal Kedia
-Apcotex Industri,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
-Aries Agro,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
-Atul Auto,ALL,2,0,0,2,HNI | FII,Vijay Kishanlal Kedia | Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Cera Sanitary.,ALL,2,0,1,2,HNI | FII,Vijay Kishanlal Kedia | NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-Cheviot Company,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
-Elecon Engg.Co,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
-Everest Inds.,ALL,2,0,0,2,HNI | FII,Vijay Kishanlal Kedia | Massachusetts Institue of Technology,,
-Global Vectra,ALL,1,1,0,1,HNI,Vijay Kishanlal Kedia,Vijay Kishanlal Kedia,
-Innovators,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
-Karnataka Bank,ALL,2,0,0,2,HNI | DII,Vijay Kishanlal Kedia | Quant Mutual Fund - Quant Small Cap Fund,,
-Kokuyo Camlin,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
-Lykis,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
-Mahindra Holiday,ALL,2,1,0,2,HNI | DII,Vijay Kishanlal Kedia | 3P India Equity Fund 1,3P India Equity Fund 1,
-MIRC Electronics,ALL,2,0,0,1,HNI,Vijay Kishanlal Kedia | Ashish Rameshchandra Kacholia,,
-Pakka,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
-Panasonic Energy,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
-Precision Camshf,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
-Ramco Systems,ALL,2,0,0,2,HNI | FII,Vijay Kishanlal Kedia | Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Sibar Software,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
-Siyaram Silk,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
-Speciality Rest.,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
-Stewarts & Lloyd,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
-Sudarshan Chem.,ALL,2,0,0,2,HNI | FII,Vijay Kishanlal Kedia | Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Talbros Auto.,ALL,1,0,1,1,HNI,Vijay Kishanlal Kedia,,Vijay Kishanlal Kedia
-TCPL Packaging,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
-Tejas Networks,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
-Vaibhav Global,ALL,2,1,1,1,HNI,Vijay Kishanlal Kedia | Ashish Rameshchandra Kacholia,Vijay Kishanlal Kedia,Ashish Rameshchandra Kacholia
-Amber Enterp.,ALL,3,1,0,3,HNI | DII | FII,Akash Bhanshali | Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-Aroni Commercial,ALL,1,0,0,1,HNI,Akash Bhanshali,,
-Arvind Fashions.,ALL,2,0,1,1,HNI,Akash Bhanshali | Ashish Rameshchandra Kacholia,,Akash Bhanshali
-Balrampur Chini,ALL,4,1,0,3,HNI | DII | FII,Akash Bhanshali | Quant Mutual Fund - Quant Small Cap Fund | Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P,Quant Mutual Fund - Quant Small Cap Fund,
-Career Point,ALL,1,0,0,1,HNI,Akash Bhanshali,,
-Dilip Buildcon,ALL,3,2,0,3,HNI | DII | FII,Akash Bhanshali | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,Akash Bhanshali | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,
-GeeCee Vent.,ALL,1,0,0,1,HNI,Akash Bhanshali,,
-Genus Power,ALL,2,0,0,1,HNI,Akash Bhanshali | Ashish Rameshchandra Kacholia,,
-Granules India,ALL,1,0,0,1,HNI,Akash Bhanshali,,
-Greenlam Industr,ALL,2,0,1,2,HNI | DII,Akash Bhanshali | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
-Gujarat Fluoroch,ALL,3,0,0,3,HNI | DII | FII,Akash Bhanshali | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,,
-Hathway Cable,ALL,2,0,0,2,HNI | FII,Akash Bhanshali | Small Cap World Fund Inc,,
-I D F C,ALL,1,0,0,1,HNI,Akash Bhanshali,,
-Inox Wind Energy,ALL,1,0,0,1,HNI,Akash Bhanshali,,
-Khaitan Elect.,ALL,1,0,0,1,HNI,Akash Bhanshali,,
-Laurus Labs,ALL,4,0,2,3,HNI | DII | FII,Akash Bhanshali | Mirae Asset Large &amp; Midcap Fund | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,Mirae Asset Large &amp; Midcap Fund | Small Cap World Fund Inc
-Mah. Seamless,ALL,2,1,0,2,HNI | DII,Akash Bhanshali | Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
-Mahindra Logis.,ALL,3,0,0,2,HNI | FII,Akash Bhanshali | Ashish Rameshchandra Kacholia | Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Mercator,ALL,1,0,0,1,HNI,Akash Bhanshali,,
-Natco Pharma,ALL,2,0,1,2,HNI | DII,Akash Bhanshali | Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
-One 97,ALL,1,1,0,1,HNI,Akash Bhanshali,Akash Bhanshali,
-Parag Milk Foods,ALL,4,0,0,2,HNI | FII,Akash Bhanshali | Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia | Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Polyplex Corpn,ALL,1,0,0,1,HNI,Akash Bhanshali,,
-Pratibha Industr,ALL,1,0,0,1,HNI,Akash Bhanshali,,
-Praxis Home,ALL,1,0,0,1,HNI,Akash Bhanshali,,
-Prism Johnson,ALL,3,0,1,2,HNI | FII,Akash Bhanshali | Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,,Jupiter India Fund
-Ramkrishna Forg.,ALL,4,1,0,3,HNI | DII | FII,Akash Bhanshali | Kotak Emergency Equity Scheme | Massachusetts Institue of Technology | Small Cap World Fund Inc,Small Cap World Fund Inc,
-Sandhar Tech,ALL,1,0,0,1,HNI,Akash Bhanshali,,
-Saraswati Commer,ALL,1,0,0,1,HNI,Akash Bhanshali,,
-Schneider Elect.,ALL,1,0,1,1,HNI,Akash Bhanshali,,Akash Bhanshali
-Shilpa Medicare,ALL,1,0,1,1,HNI,Akash Bhanshali,,Akash Bhanshali
-Shreenath Invest,ALL,1,0,0,1,HNI,Akash Bhanshali,,
-Sterlite Tech.,ALL,1,0,1,1,HNI,Akash Bhanshali,,Akash Bhanshali
-Usha Martin,ALL,2,1,0,2,HNI | DII,Akash Bhanshali | Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
-Vascon Engineers,ALL,1,0,0,1,HNI,Akash Bhanshali,,
-Welspun Living,ALL,1,0,0,1,HNI,Akash Bhanshali,,
-Zodiac Cloth. Co,ALL,1,0,0,1,HNI,Akash Bhanshali,,
-ADF Foods,ALL,2,0,0,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,
-AGI Greenpac,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Allcargo Gati,ALL,2,0,1,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Mukul Mahavir Agrawal
-Allcargo Logist.,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Allcargo Termi,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Apollo Pipes,ALL,2,0,1,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Mukul Mahavir Agrawal
-Arman Financial,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Arrow Greentech,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Artefact Project,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Asian Granito,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-BEML Ltd,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Bhagiradha Chem.,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Bharat Bijlee,ALL,2,0,0,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,
-Birlasoft Ltd,ALL,3,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia | Small Cap World Fund Inc,,
-BSE,ALL,2,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Jupiter India Fund,,
-Cambridge Tech.,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Capacit'e Infra.,ALL,2,1,0,2,HNI | FII,Mukul Mahavir Agrawal | Goldman Sachs Funds - Goldman Sachs India Equity P,Mukul Mahavir Agrawal,
-CEAT,ALL,2,0,1,2,HNI | DII,Mukul Mahavir Agrawal | Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
-CG Power & Ind,ALL,2,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Small Cap World Fund Inc,,
-CL Educate,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Concord Control,ALL,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
-Cords Cable,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-DE Nora India,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Delphi World,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Delta Corp,ALL,4,0,1,3,HNI | DII | FII,Mukul Mahavir Agrawal | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
-Dhabriya Poly.,ALL,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
-Dish TV India,ALL,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
-Dishman Carbogen,ALL,2,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Massachusetts Institue of Technology,,
-Dolphin Offshore,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Dredging Corpn.,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Dwarikesh Sugar,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Dynamatic Tech.,ALL,2,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Goldman Sachs Funds - Goldman Sachs India Equity P,,
-EKI Energy,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Ethos Ltd,ALL,3,2,1,2,HNI | FII,Mukul Mahavir Agrawal | Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,Mukul Mahavir Agrawal
-G M Breweries,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Gensol Engineer.,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Goldiam Intl.,ALL,2,0,0,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,
-GPT Infraproject,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Greaves Cotton,ALL,3,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Massachusetts Institue of Technology | Small Cap World Fund Inc,,
-GVK Power Infra.,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Himatsing. Seide,ALL,2,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Jupiter India Fund,,
-Hind Rectifiers,ALL,1,1,0,1,HNI,Mukul Mahavir Agrawal,Mukul Mahavir Agrawal,
-Hind.Dorr-Oliver,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Hind.Oil Explor.,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Hindware Home In,ALL,2,0,1,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Mukul Mahavir Agrawal
-Indiamart Inter.,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Indian Metals,ALL,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
-Indo Count Inds.,ALL,3,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia | Jupiter India Fund,,
-InfoBeans Tech.,ALL,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
-Intellect Design,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-ION Exchange,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-ISMT,ALL,1,1,0,1,HNI,Mukul Mahavir Agrawal,Mukul Mahavir Agrawal,
-J Kumar Infra,ALL,3,1,0,3,HNI | DII | FII,Mukul Mahavir Agrawal | 3P India Equity Fund 1 | Goldman Sachs Funds - Goldman Sachs India Equity P,3P India Equity Fund 1,
-Jagsonpal Pharma,ALL,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
-Jet Freight,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Jet Knitwears,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-JTEKT India,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Kamdhenu,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Kanoria Chem.,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Karur Vysya Bank,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Kingfa Science,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-L T Foods,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Lak. Vilas Bank,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Lovable Lingerie,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Lux Industries,ALL,2,1,0,2,HNI | FII,Mukul Mahavir Agrawal | Jupiter India Fund,Mukul Mahavir Agrawal,
-Mahindra EPC,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Manpasand Bever.,ALL,2,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Marksans Pharma,ALL,2,0,0,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,
-Mastek,ALL,3,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia | Small Cap World Fund Inc,,
-Mcleod Russel,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-MPS,ALL,2,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Goldman Sachs Funds - Goldman Sachs India Equity P,,
-MSTC,ALL,3,1,0,2,HNI | FII,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia | Jupiter India Fund,Jupiter India Fund,
-MTAR Technologie,ALL,2,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Navkar Corporat.,ALL,2,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Neuland Labs.,ALL,4,2,0,2,HNI | FII,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia | Small Cap World Fund Inc | Jupiter India Fund,Small Cap World Fund Inc | Jupiter India Fund,
-Newgen Software,ALL,3,0,1,2,HNI | FII,Mukul Mahavir Agrawal | Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P,,Goldman Sachs Funds - Goldman Sachs India Equity P
-Nuvama Wealth,ALL,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
-OnMobile Global,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Oriental Rail,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-P.E. Analytics,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Paras Defence,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-PDS,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Pearl Global Ind,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Prakash Industri,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Prakash Pipes,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-PTC Industries,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Quick Heal Tech,ALL,2,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Jupiter India Fund,,
-Raghav Product.,ALL,2,0,0,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,
-Raymond,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Religare Enterp.,ALL,2,0,0,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,
-Rico Auto Inds,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Sahyadri Industr,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Sanghi Industrie,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Sanghvi Brands,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Sarda Energy,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Sequent Scien.,ALL,2,0,1,2,HNI | DII,Mukul Mahavir Agrawal | Quant Mutual Fund - Quant Small Cap Fund,,Quant Mutual Fund - Quant Small Cap Fund
-SG Finserve,ALL,2,0,1,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
-Shaily Engineer.,ALL,2,0,1,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
-Shankara Build.,ALL,2,0,2,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia
-Solara Active,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Strides Pharma,ALL,3,0,0,3,HNI | DII | FII,Mukul Mahavir Agrawal | Kotak Emergency Equity Scheme | Small Cap World Fund Inc,,
-Stylam Industrie,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Sula Vineyards,ALL,3,0,1,2,HNI | FII,Mukul Mahavir Agrawal | Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,,Goldman Sachs Funds - Goldman Sachs India Equity P
-Surya Roshni,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Suryoday Small,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Suzlon Energy,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-TAAL Enterprises,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Tasty Bite Eat.,ALL,2,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Jupiter India Fund,,
-Thejo Engg.,ALL,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
-Thomas Cook (I),ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Tracxn Technolo.,ALL,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
-Transpek Inds.,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Umang Dairies,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Vardhman Special,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Vasa Denticity,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Vidhi Specialty,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
-Zen Technologies,ALL,2,0,1,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Mukul Mahavir Agrawal
-Zota Health Care,ALL,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
-Aditya Vision,ALL,2,0,2,2,HNI | FII,Ashish Rameshchandra Kacholia | Small Cap World Fund Inc,,Ashish Rameshchandra Kacholia | Small Cap World Fund Inc
-Ador Welding,ALL,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
-Agarwal Indl.,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Ami Organics,ALL,2,0,1,2,HNI | FII,Ashish Rameshchandra Kacholia | Small Cap World Fund Inc,,Ashish Rameshchandra Kacholia
-APL Apollo Tubes,ALL,4,0,0,3,HNI | DII | FII,Ashish Rameshchandra Kacholia | Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,
-Apollo Tricoat,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Aptech,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Ashiana Housing,ALL,2,0,0,2,HNI | FII,Ashish Rameshchandra Kacholia | Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Astec Lifescienc,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Aurum Proptech,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-AYM Syntex,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Balu Forge,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Barbeque-Nation,ALL,2,1,1,2,HNI | FII,Ashish Rameshchandra Kacholia | Massachusetts Institue of Technology,Massachusetts Institue of Technology,Ashish Rameshchandra Kacholia
-Best Agrolife,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Beta Drugs Ltd,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Bodal Chemicals,ALL,2,0,0,2,HNI | FII,Ashish Rameshchandra Kacholia | Jupiter India Fund,,
-Butterfly Gan Ap,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Caplin Point Lab,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Carysil,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-CHD Developers,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-D-Link India,ALL,2,0,0,2,HNI | DII,Ashish Rameshchandra Kacholia | Kotak Emergency Equity Scheme,,
-DFM Foods,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-DU Digital,ALL,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
-Ester Industries,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Faze Three,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Fineotex Chem,ALL,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
-Garware Hi Tech,ALL,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
-Gateway Distr.,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Genesys Intl.,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-GHCL,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Gravita India,ALL,2,1,1,2,HNI | FII,Ashish Rameshchandra Kacholia | Jupiter India Fund,Jupiter India Fund,Ashish Rameshchandra Kacholia
-GTPL Hathway,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Hikal,ALL,2,0,0,2,HNI | FII,Ashish Rameshchandra Kacholia | Small Cap World Fund Inc,,
-HLE Glascoat,ALL,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
-IFB Industries,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Igarashi Motors,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Inflame Applian.,ALL,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
-IOL Chemicals,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-KEI Industries,ALL,4,0,1,2,HNI | FII,Ashish Rameshchandra Kacholia | Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,Small Cap World Fund Inc
-Khadim India,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Knowledge Marine,ALL,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
-KPIT Technologi.,ALL,2,0,0,2,HNI | FII,Ashish Rameshchandra Kacholia | Massachusetts Institue of Technology,,
-Kwality Pharma,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-La Opala RG,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Likhitha Infra.,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Lokesh Mach.,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Megastar Foods,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Mold-Tek Pack.,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-MT Educare,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Navin Fluo.Intl.,ALL,3,0,0,2,HNI | FII,Ashish Rameshchandra Kacholia | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,
-NIIT Learning,ALL,2,0,2,2,HNI | FII,Ashish Rameshchandra Kacholia | Massachusetts Institue of Technology,,Ashish Rameshchandra Kacholia | Massachusetts Institue of Technology
-NIIT,ALL,2,0,1,2,HNI | FII,Ashish Rameshchandra Kacholia | Massachusetts Institue of Technology,,Massachusetts Institue of Technology
-NOCIL,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Paushak,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-PCBL Ltd,ALL,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
-Pokarna,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Poly Medicure,ALL,3,0,0,3,HNI | DII | FII,Ashish Rameshchandra Kacholia | Quant Mutual Fund - Quant Small Cap Fund | Small Cap World Fund Inc,,
-Rainbow Child.,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Royal Orch.Hotel,ALL,2,0,0,2,HNI | FII,Ashish Rameshchandra Kacholia | Jupiter India Fund,,
-SJS Enterprises,ALL,2,1,0,2,HNI | FII,Ashish Rameshchandra Kacholia | Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-S P Apparels,ALL,2,0,0,2,HNI | FII,Ashish Rameshchandra Kacholia | Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Safari Inds.,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Sastasundar Ven.,ALL,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
-Shreyas Shipping,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Stove Kraft,ALL,2,0,0,2,HNI | FII,Ashish Rameshchandra Kacholia | Goldman Sachs Funds - Goldman Sachs India Equity P,,
-TARC Ltd,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Time Technoplast,ALL,2,1,0,2,HNI | DII,Ashish Rameshchandra Kacholia | 3P India Equity Fund 1,3P India Equity Fund 1,
-UFO Moviez,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-United Drilling,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-V2 Retail,ALL,2,0,0,2,HNI | FII,Ashish Rameshchandra Kacholia | Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Vadilal Inds.,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Venus Pipes,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Virtuoso Optoel.,ALL,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
-Vishnu Chemicals,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Vivimed Labs.,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-VRL Logistics,ALL,2,0,0,2,HNI | FII,Ashish Rameshchandra Kacholia | Goldman Sachs Funds - Goldman Sachs India Equity P,,
-XPRO India,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Yasho Industries,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
-Bajaj Holdings,ALL,1,1,0,1,DII,Parag Parikh Flexi Cap Fund,Parag Parikh Flexi Cap Fund,
-Balkrishna Inds,ALL,2,1,0,1,DII,Parag Parikh Flexi Cap Fund | Kotak Emergency Equity Scheme,Parag Parikh Flexi Cap Fund,
-C D S L,ALL,1,1,0,1,DII,Parag Parikh Flexi Cap Fund,Parag Parikh Flexi Cap Fund,
-Coal India,ALL,1,1,0,1,DII,Parag Parikh Flexi Cap Fund,Parag Parikh Flexi Cap Fund,
-EID Parry,ALL,2,0,1,1,DII,Parag Parikh Flexi Cap Fund | Quant Mutual Fund - Quant Small Cap Fund,,Quant Mutual Fund - Quant Small Cap Fund
-Hero Motocorp,ALL,1,0,0,1,DII,Parag Parikh Flexi Cap Fund,,
-ICRA,ALL,2,0,0,2,DII | FII,Parag Parikh Flexi Cap Fund | Small Cap World Fund Inc,,
-Indian Energy Ex,ALL,4,1,0,2,DII | FII,Parag Parikh Flexi Cap Fund | Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,Massachusetts Institue of Technology,
-Indraprastha Gas,ALL,1,0,1,1,DII,Parag Parikh Flexi Cap Fund,,Parag Parikh Flexi Cap Fund
-Ipca Labs.,ALL,4,2,0,2,DII | FII,Parag Parikh Flexi Cap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme,
-Mah. Scooters,ALL,1,1,0,1,DII,Parag Parikh Flexi Cap Fund,Parag Parikh Flexi Cap Fund,
-Motil.Oswal.Fin.,ALL,1,0,1,1,DII,Parag Parikh Flexi Cap Fund,,Parag Parikh Flexi Cap Fund
-Multi Comm. Exc.,ALL,3,0,0,2,DII | FII,Parag Parikh Flexi Cap Fund | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,
-Power Grid Corpn,ALL,1,0,1,1,DII,Parag Parikh Flexi Cap Fund,,Parag Parikh Flexi Cap Fund
-Atul,ALL,3,0,3,1,DII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme,,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme
-Bayer Crop Sci.,ALL,1,0,1,1,DII,Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
-Bharat Forge,ALL,2,1,0,1,DII,Mirae Asset Large &amp; Midcap Fund | Kotak Emergency Equity Scheme,Mirae Asset Large &amp; Midcap Fund,
-Coforge,ALL,5,2,1,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,Kotak Emergency Equity Scheme
-Craftsman Auto,ALL,1,1,0,1,DII,Mirae Asset Large &amp; Midcap Fund,Mirae Asset Large &amp; Midcap Fund,
-Data Pattern,ALL,1,0,1,1,DII,Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
-Deepak Nitrite,ALL,1,1,0,1,DII,Mirae Asset Large &amp; Midcap Fund,Mirae Asset Large &amp; Midcap Fund,
-Delhivery,ALL,2,2,0,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Small Cap World Fund Inc,Mirae Asset Large &amp; Midcap Fund | Small Cap World Fund Inc,
-Eicher Motors,ALL,1,0,1,1,DII,Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
-Fortis Health.,ALL,2,0,0,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Jupiter India Fund,,
-Gateway Distri,ALL,1,0,0,1,DII,Mirae Asset Large &amp; Midcap Fund,,
-Gland Pharma,ALL,4,2,0,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Small Cap World Fund Inc,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,
-Go Digit General,ALL,1,1,0,1,DII,Mirae Asset Large &amp; Midcap Fund,Mirae Asset Large &amp; Midcap Fund,
-Guj.St.Petronet,ALL,2,1,0,1,DII,Mirae Asset Large &amp; Midcap Fund | Kotak Emergency Equity Scheme,Mirae Asset Large &amp; Midcap Fund,
-L&T Finance Ltd,ALL,2,1,0,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Small Cap World Fund Inc,Mirae Asset Large &amp; Midcap Fund,
-Lupin,ALL,1,1,0,1,DII,Mirae Asset Large &amp; Midcap Fund,Mirae Asset Large &amp; Midcap Fund,
-Motherson Wiring,ALL,1,0,0,1,DII,Mirae Asset Large &amp; Midcap Fund,,
-Page Industries,ALL,3,1,0,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Kotak Emergency Equity Scheme | Small Cap World Fund Inc,Mirae Asset Large &amp; Midcap Fund,
-PB Fintech.,ALL,3,1,2,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Mirae Asset Large &amp; Midcap Fund | Small Cap World Fund Inc
-Prestige Estates,ALL,2,0,1,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Goldman Sachs Funds - Goldman Sachs India Equity P,,Mirae Asset Large &amp; Midcap Fund
-Prince Pipes,ALL,1,0,1,1,DII,Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
-Sapphire Foods,ALL,1,0,1,1,DII,Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
-SKF India,ALL,3,0,2,1,DII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme,,Mirae Asset Large &amp; Midcap Fund | Kotak Emergency Equity Scheme
-Tata Comm,ALL,2,0,2,1,DII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
-Whirlpool India,ALL,2,1,1,1,DII,Mirae Asset Large &amp; Midcap Fund | Kotak Emergency Equity Scheme,Mirae Asset Large &amp; Midcap Fund,Kotak Emergency Equity Scheme
-Ashoka Buildcon,ALL,1,0,0,1,DII,3P India Equity Fund 1,,
-Landmark Cars,ALL,2,1,1,2,DII | FII,3P India Equity Fund 1 | Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,3P India Equity Fund 1
-Senco Gold,ALL,1,0,0,1,DII,3P India Equity Fund 1,,
-AIA Engineering,ALL,2,1,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | NALANDA INDIA EQUITY FUND nLIMITED,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,NALANDA INDIA EQUITY FUND nLIMITED
-Arvind Ltd,ALL,1,0,1,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
-AU Small Finance,ALL,2,1,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Small Cap World Fund Inc
-Bharat Electron,ALL,1,0,1,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
-Cummins India,ALL,3,1,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Small Cap World Fund Inc,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Kotak Emergency Equity Scheme
-Dhanuka Agritech,ALL,1,0,0,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,
-Dixon Technolog.,ALL,3,0,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P,,Kotak Emergency Equity Scheme
-Greenpanel Inds.,ALL,1,0,1,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
-H P C L,ALL,3,1,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Jupiter India Fund,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Kotak Emergency Equity Scheme
-Indian Hotels Co,ALL,1,0,0,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,
-Jindal Steel,ALL,1,1,0,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,
-K E C Intl.,ALL,1,0,1,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
-KNR Construct.,ALL,1,1,0,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,
-Max Healthcare,ALL,2,0,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,,Small Cap World Fund Inc
-Persistent Sys,ALL,2,1,0,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme,Kotak Emergency Equity Scheme,
-RBL Bank,ALL,1,0,0,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,
-Redington,ALL,2,0,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Massachusetts Institue of Technology,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
-Solar Industries,ALL,2,0,2,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme
-Supreme Inds.,ALL,3,0,0,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Small Cap World Fund Inc,,
-Symphony,ALL,1,0,1,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
-Tata Chemicals,ALL,1,0,1,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
-Zee Entertainmen,ALL,2,0,0,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,,
-Amara Raja Ener.,ALL,3,0,1,2,DII | FII,Kotak Emergency Equity Scheme | Small Cap World Fund Inc | NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-Bata India,ALL,1,0,0,1,DII,Kotak Emergency Equity Scheme,,
-Blue Star,ALL,1,1,0,1,DII,Kotak Emergency Equity Scheme,Kotak Emergency Equity Scheme,
-City Union Bank,ALL,2,1,0,2,DII | FII,Kotak Emergency Equity Scheme | Small Cap World Fund Inc,Small Cap World Fund Inc,
-Emami,ALL,1,1,0,1,DII,Kotak Emergency Equity Scheme,Kotak Emergency Equity Scheme,
-ERIS Lifescience,ALL,2,0,0,2,DII | FII,Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Eveready Inds.,ALL,2,0,0,2,DII | FII,Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Exide Inds.,ALL,2,0,0,2,DII | FII,Kotak Emergency Equity Scheme | NALANDA INDIA EQUITY FUND nLIMITED,,
-Finolex Cables,ALL,1,0,0,1,DII,Kotak Emergency Equity Scheme,,
-GMM Pfaudler,ALL,1,0,0,1,DII,Kotak Emergency Equity Scheme,,
-Godrej Agrovet,ALL,1,0,0,1,DII,Kotak Emergency Equity Scheme,,
-Hawkins Cookers,ALL,1,0,0,1,DII,Kotak Emergency Equity Scheme,,
-J K Cements,ALL,1,0,0,1,DII,Kotak Emergency Equity Scheme,,
-Kajaria Ceramics,ALL,3,1,0,2,DII | FII,Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,Kotak Emergency Equity Scheme,
-Kalpataru Proj.,ALL,1,0,0,1,DII,Kotak Emergency Equity Scheme,,
-Kewal Kir.Cloth.,ALL,1,0,1,1,DII,Kotak Emergency Equity Scheme,,Kotak Emergency Equity Scheme
-Kirloskar Oil,ALL,2,0,0,2,DII | FII,Kotak Emergency Equity Scheme | NALANDA INDIA EQUITY FUND nLIMITED,,
-Larsen & Toubro,ALL,1,0,0,1,DII,Kotak Emergency Equity Scheme,,
-Navneet Educat.,ALL,1,0,0,1,DII,Kotak Emergency Equity Scheme,,
-Oberoi Realty,ALL,1,1,0,1,DII,Kotak Emergency Equity Scheme,Kotak Emergency Equity Scheme,
-P I Industries,ALL,2,0,0,2,DII | FII,Kotak Emergency Equity Scheme | Small Cap World Fund Inc,,
-PNC Infratech,ALL,2,0,2,2,DII | FII,Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P,,Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P
-Ratnamani Metals,ALL,2,1,1,2,DII | FII,Kotak Emergency Equity Scheme | NALANDA INDIA EQUITY FUND nLIMITED,Kotak Emergency Equity Scheme,NALANDA INDIA EQUITY FUND nLIMITED
-Schaeffler India,ALL,1,0,1,1,DII,Kotak Emergency Equity Scheme,,Kotak Emergency Equity Scheme
-Sheela Foam,ALL,2,0,1,2,DII | FII,Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P,,Kotak Emergency Equity Scheme
-SRF,ALL,2,0,0,2,DII | FII,Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Sundaram Finance,ALL,2,0,1,2,DII | FII,Kotak Emergency Equity Scheme | NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-Sundram Fasten.,ALL,1,0,0,1,DII,Kotak Emergency Equity Scheme,,
-Thermax,ALL,3,0,1,2,DII | FII,Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P | NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-V-Guard Industri,ALL,2,0,2,2,DII | FII,Kotak Emergency Equity Scheme | NALANDA INDIA EQUITY FUND nLIMITED,,Kotak Emergency Equity Scheme | NALANDA INDIA EQUITY FUND nLIMITED
-WPIL,ALL,2,0,0,2,DII | FII,Kotak Emergency Equity Scheme | Massachusetts Institue of Technology,,
-Zuari Agro Chem.,ALL,1,0,0,1,DII,Kotak Emergency Equity Scheme,,
-Aarti Pharma,ALL,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
-Anupam Rasayan,ALL,2,0,0,2,DII | FII,Quant Mutual Fund - Quant Small Cap Fund | Small Cap World Fund Inc,,
-Apeejay Surrend.,ALL,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
-Britannia Inds.,ALL,1,0,1,1,DII,Quant Mutual Fund - Quant Small Cap Fund,,Quant Mutual Fund - Quant Small Cap Fund
-Engineers India,ALL,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
-Exicom Tele-Sys.,ALL,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
-Gopal Snacks,ALL,1,0,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,,
-H U D C O,ALL,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
-INDIA SHELTE FIN,ALL,2,1,1,2,DII | FII,Quant Mutual Fund - Quant Small Cap Fund | Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,Quant Mutual Fund - Quant Small Cap Fund
-Indoco Remedies,ALL,1,0,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,,
-Indrapr.Medical,ALL,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
-Jash Engineering,ALL,1,0,1,1,DII,Quant Mutual Fund - Quant Small Cap Fund,,Quant Mutual Fund - Quant Small Cap Fund
-Jubilant Pharmo,ALL,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
-Metropolis Healt,ALL,2,0,1,2,DII | FII,Quant Mutual Fund - Quant Small Cap Fund | Small Cap World Fund Inc,,Quant Mutual Fund - Quant Small Cap Fund
-Neogen Chemicals,ALL,1,0,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,,
-Prime Securities,ALL,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
-Sai Silks,ALL,1,0,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,,
-S C I,ALL,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
-Thyrocare Tech.,ALL,2,1,0,2,DII | FII,Quant Mutual Fund - Quant Small Cap Fund | NALANDA INDIA EQUITY FUND nLIMITED,Quant Mutual Fund - Quant Small Cap Fund,
-Va Tech Wabag,ALL,3,0,1,2,DII | FII,Quant Mutual Fund - Quant Small Cap Fund | Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P,,Quant Mutual Fund - Quant Small Cap Fund
-Vishnu Prakash R,ALL,1,0,1,1,DII,Quant Mutual Fund - Quant Small Cap Fund,,Quant Mutual Fund - Quant Small Cap Fund
-Accuracy Shippi.,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
-Action Const.Eq.,ALL,1,0,1,1,FII,Massachusetts Institue of Technology,,Massachusetts Institue of Technology
-Ahlada Engineers,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
-Antony Waste han,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
-Calcom Vision,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
-Carborundum Uni.,ALL,3,0,0,1,FII,Massachusetts Institue of Technology | Small Cap World Fund Inc | NALANDA INDIA EQUITY FUND nLIMITED,,
-Chambal Fert.,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
-CMS Info Systems,ALL,3,1,0,1,FII,Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,Goldman Sachs Funds - Goldman Sachs India Equity P,
-Equitas Holdings,ALL,2,0,0,1,FII,Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Equitas Sma. Fin,ALL,1,0,1,1,FII,Massachusetts Institue of Technology,,Massachusetts Institue of Technology
-Fairchem Organic,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
-Fusion Microfin.,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
-Glenmark Life,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
-Globus Spirits,ALL,1,0,1,1,FII,Massachusetts Institue of Technology,,Massachusetts Institue of Technology
-Guj. Ambuja Exp,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
-Hitachi Energy,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
-ITD Cem,ALL,1,0,1,1,FII,Massachusetts Institue of Technology,,Massachusetts Institue of Technology
-J.G.Chemicals,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
-Kaveri Seed Co.,ALL,2,0,0,1,FII,Massachusetts Institue of Technology | Jupiter India Fund,,
-Macpower CNC,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
-Matrimony.com,ALL,4,0,1,1,FII,Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc | NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-NCC,ALL,2,0,1,1,FII,Massachusetts Institue of Technology | Small Cap World Fund Inc,,Small Cap World Fund Inc
-Orchid Pharma,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
-Satin Creditcare,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
-SBFC Finance,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
-Snowman Logistic,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
-Srikalahas. Pip.,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
-Star Health Insu,ALL,1,0,1,1,FII,Massachusetts Institue of Technology,,Massachusetts Institue of Technology
-Thangamayil Jew.,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
-Xelpmoc Design,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
-Aditya Bir. Fas.,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Angel One,ALL,2,0,1,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,Small Cap World Fund Inc
-Apar Inds.,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Archean Chemical,ALL,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-Bajaj Consumer,ALL,2,0,2,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,,Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund
-BASF India,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Bharat Financial,ALL,2,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,
-Capital First,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-CARE Ratings,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Cartrade Tech,ALL,2,2,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,
-Century Plyboard,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Century Textiles,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Chalet Hotels,ALL,2,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,
-Crompton Gr. Con,ALL,2,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,
-Cyient,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-eClerx Services,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Escorts Kubota,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Fine Organic,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Firstsour.Solu.,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Godrej Propert.,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Gokaldas Exports,ALL,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-Goodyear India,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Graphite India,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Grindwell Norton,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Happiest Minds,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-IKIO Lighting,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-India Cements,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Inox India,ALL,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-Inox Leisure,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-ISGEC Heavy,ALL,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-JK Lakshmi Cem.,ALL,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-Jupiter Life Lin,ALL,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-Kaynes Tech,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-KFin Technolog.,ALL,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-Kolte Patil Dev.,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Mahanagar Gas,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Mahindra Life.,ALL,2,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,Goldman Sachs Funds - Goldman Sachs India Equity P,
-Medplus Health,ALL,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-Monte Carlo Fas.,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Muthoot Finance,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Paradeep Phosph.,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Poddar Housing,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Poonawalla Fin,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Prataap Snacks,ALL,2,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,
-PVR Inox,ALL,2,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,Goldman Sachs Funds - Goldman Sachs India Equity P,
-Railtel Corpn.,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Rategain Travel,ALL,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-RattanIndia Pow.,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Repco Home Fin,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Rossari Biotech,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Route Mobile,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Shalby,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Sharda Cropchem,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Sonata Software,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Spandana Sphoort,ALL,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-Suven Pharma,ALL,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-TCNS Clothing Co,ALL,2,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | NALANDA INDIA EQUITY FUND nLIMITED,,
-Team Lease Serv.,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Texmaco Rail,ALL,2,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,,
-Utkarsh Small F.,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Vodafone Idea,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Voltas,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-VST Till. Tract.,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Welspun Corp,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
-Zensar Tech.,ALL,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
-360 ONE,ALL,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
-Aarti Industries,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-AAVAS Financiers,ALL,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
-ACC,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Aegis Logistics,ALL,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
-Aptus Value Hou.,ALL,1,1,0,1,FII,Small Cap World Fund Inc,Small Cap World Fund Inc,
-Aster DM Health.,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Bajaj Electrical,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Bajaj Finance,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Canara Bank,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-CCL Products,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Cholaman.Inv.&Fn,ALL,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
-Cams Services,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Cox & Kings Fin.,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Cox & Kings,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Dalmia Bhar.,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Deepak Fertiliz.,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Devyani Intl.,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Dreamfolks Servi,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Endurance Tech.,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Entero Healthcar,ALL,1,1,0,1,FII,Small Cap World Fund Inc,Small Cap World Fund Inc,
-EPL Ltd,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Five-Star Bus.Fi,ALL,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
-G R Infraproject,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Glenmark Pharma.,ALL,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
-GRUH Finance,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Guj Pipavav Port,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Gulf Oil Lubric.,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Havells India,ALL,2,0,1,1,FII,Small Cap World Fund Inc | NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-HDFC AMC,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Home First Finan,ALL,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
-Honasa Consumer,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-ICICI Securities,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-IIFL Finance,ALL,1,1,0,1,FII,Small Cap World Fund Inc,Small Cap World Fund Inc,
-Indiabulls Hous.,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Indigo Paints,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Inox Wind,ALL,1,1,0,1,FII,Small Cap World Fund Inc,Small Cap World Fund Inc,
-Jamna Auto Inds.,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Kotak Mah. Bank,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Manappuram Fin.,ALL,1,1,0,1,FII,Small Cap World Fund Inc,Small Cap World Fund Inc,
-Max Financial,ALL,2,0,0,1,FII,Small Cap World Fund Inc | Jupiter India Fund,,
-Mayur Uniquoters,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-MRF,ALL,2,0,2,1,FII,Small Cap World Fund Inc | NALANDA INDIA EQUITY FUND nLIMITED,,Small Cap World Fund Inc | NALANDA INDIA EQUITY FUND nLIMITED
-Petronet LNG,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Piramal Enterp.,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Quess Corp,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Relaxo Footwear,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Reliance Communi,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-S H Kelkar & Co.,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Shriram Finance,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-SIS,ALL,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
-Suprajit Engg.,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Talwal.Better,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Talwalkars Heal.,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Tanla Platforms,ALL,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
-TD Power Systems,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Titagarh Rail,ALL,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
-Tube Investments,ALL,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
-Varroc Engineer,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Varun Beverages,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Westlife Food,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
-Advanced Enzyme,ALL,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-Ahluwalia Contr.,ALL,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-D B Corp,ALL,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-Elgi Equipments,ALL,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-GE Shipping Co,ALL,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-Info Edg.(India),ALL,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-Just Dial,ALL,1,0,0,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,
-Jyothy Labs,ALL,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-Mindtree,ALL,1,0,0,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,
-NRB Bearings,ALL,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-Triveni Turbine,ALL,2,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED | Jupiter India Fund,,NALANDA INDIA EQUITY FUND nLIMITED
-TTK Prestige,ALL,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-Volt.Transform.,ALL,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
-Apollo Micro Sys,ALL,1,0,0,1,FII,Jupiter India Fund,,
-Biocon,ALL,1,0,0,1,FII,Jupiter India Fund,,
-Dec.Gold Mines,ALL,1,0,0,1,FII,Jupiter India Fund,,
-EIH Assoc.Hotels,ALL,1,0,0,1,FII,Jupiter India Fund,,
-Elpro Internatio,ALL,1,0,0,1,FII,Jupiter India Fund,,
-Equinox India,ALL,1,0,0,1,FII,Jupiter India Fund,,
-Force Motors,ALL,1,0,0,1,FII,Jupiter India Fund,,
-Godfrey Phillips,ALL,1,0,1,1,FII,Jupiter India Fund,,Jupiter India Fund
-KDDL Ltd,ALL,1,0,0,1,FII,Jupiter India Fund,,
-Medi Assist Ser.,ALL,1,1,0,1,FII,Jupiter India Fund,Jupiter India Fund,
-Milkfood,ALL,1,0,1,1,FII,Jupiter India Fund,,Jupiter India Fund
-Olectra Greentec,ALL,1,0,0,1,FII,Jupiter India Fund,,
-SML ISUZU,ALL,1,0,0,1,FII,Jupiter India Fund,,
-SpiceJet,ALL,1,0,0,1,FII,Jupiter India Fund,,
-The Byke Hospi.,ALL,1,0,0,1,FII,Jupiter India Fund,,
-TTK Healthcare,ALL,1,0,0,1,FII,Jupiter India Fund,,
-Yatharth Hospit.,ALL,1,1,0,1,FII,Jupiter India Fund,Jupiter India Fund,
-Recent Adds: 90, Recent Dels: 136, All: 576 
+Company,Ticker,Type,InvestedBy,RecentAdds,RecentDels,investorTypeCount,investorType,InvestedByList,RecentAddsList,RecentDelsList
+Coforge,COFORGE,RecentAdd,5,2,1,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,Kotak Emergency Equity Scheme
+Neuland Labs.,NEULANDLAB,RecentAdd,4,2,0,2,HNI | FII,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia | Small Cap World Fund Inc | Jupiter India Fund,Small Cap World Fund Inc | Jupiter India Fund,
+Ipca Labs.,IPCALAB,RecentAdd,4,2,0,2,DII | FII,Parag Parikh Flexi Cap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme,
+Gland Pharma,GLAND,RecentAdd,4,2,0,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Small Cap World Fund Inc,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,
+Dilip Buildcon,DBL,RecentAdd,3,2,0,3,HNI | DII | FII,Akash Bhanshali | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,Akash Bhanshali | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,
+Ethos Ltd,ETHOSLTD,RecentAdd,3,2,1,2,HNI | FII,Mukul Mahavir Agrawal | Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,Mukul Mahavir Agrawal
+Delhivery,DELHIVERY,RecentAdd,2,2,0,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Small Cap World Fund Inc,Mirae Asset Large &amp; Midcap Fund | Small Cap World Fund Inc,
+Cartrade Tech,CARTRADE,RecentAdd,2,2,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,
+Balrampur Chini,BALRAMCHIN,RecentAdd,4,1,0,3,HNI | DII | FII,Akash Bhanshali | Quant Mutual Fund - Quant Small Cap Fund | Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P,Quant Mutual Fund - Quant Small Cap Fund,
+Ramkrishna Forg.,RKFORGE,RecentAdd,4,1,0,3,HNI | DII | FII,Akash Bhanshali | Kotak Emergency Equity Scheme | Massachusetts Institue of Technology | Small Cap World Fund Inc,Small Cap World Fund Inc,
+Indian Energy Ex,IEX,RecentAdd,4,1,0,2,DII | FII,Parag Parikh Flexi Cap Fund | Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,Massachusetts Institue of Technology,
+Amber Enterp.,AMBER,RecentAdd,3,1,0,3,HNI | DII | FII,Akash Bhanshali | Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+J Kumar Infra,JKIL,RecentAdd,3,1,0,3,HNI | DII | FII,Mukul Mahavir Agrawal | 3P India Equity Fund 1 | Goldman Sachs Funds - Goldman Sachs India Equity P,3P India Equity Fund 1,
+MSTC,MSTCLTD,RecentAdd,3,1,0,2,HNI | FII,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia | Jupiter India Fund,Jupiter India Fund,
+Persistent Sys,PERSISTENT,RecentAdd,3,1,0,1,DII,Parag Parikh Flexi Cap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme,Kotak Emergency Equity Scheme,
+Page Industries,PAGEIND,RecentAdd,3,1,0,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Kotak Emergency Equity Scheme | Small Cap World Fund Inc,Mirae Asset Large &amp; Midcap Fund,
+PB Fintech.,POLICYBZR,RecentAdd,3,1,2,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Mirae Asset Large &amp; Midcap Fund | Small Cap World Fund Inc
+Cummins India,CUMMINSIND,RecentAdd,3,1,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Small Cap World Fund Inc,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Kotak Emergency Equity Scheme
+H P C L,HINDPETRO,RecentAdd,3,1,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Jupiter India Fund,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Kotak Emergency Equity Scheme
+Kajaria Ceramics,KAJARIACER,RecentAdd,3,1,0,2,DII | FII,Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,Kotak Emergency Equity Scheme,
+CMS Info Systems,CMSINFO,RecentAdd,3,1,0,1,FII,Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,Goldman Sachs Funds - Goldman Sachs India Equity P,
+Mahindra Holiday,MHRIL,RecentAdd,2,1,0,2,HNI | DII,Vijay Kishanlal Kedia | 3P India Equity Fund 1,3P India Equity Fund 1,
+Vaibhav Global,VAIBHAVGBL,RecentAdd,2,1,1,1,HNI,Vijay Kishanlal Kedia | Ashish Rameshchandra Kacholia,Vijay Kishanlal Kedia,Ashish Rameshchandra Kacholia
+Mah. Seamless,MAHSEAMLES,RecentAdd,2,1,0,2,HNI | DII,Akash Bhanshali | Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
+Usha Martin,USHAMART,RecentAdd,2,1,0,2,HNI | DII,Akash Bhanshali | Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
+Capacit'e Infra.,CAPACITE,RecentAdd,2,1,0,2,HNI | FII,Mukul Mahavir Agrawal | Goldman Sachs Funds - Goldman Sachs India Equity P,Mukul Mahavir Agrawal,
+Lux Industries,LUXIND,RecentAdd,2,1,0,2,HNI | FII,Mukul Mahavir Agrawal | Jupiter India Fund,Mukul Mahavir Agrawal,
+Barbeque-Nation,BARBEQUE,RecentAdd,2,1,1,2,HNI | FII,Ashish Rameshchandra Kacholia | Massachusetts Institue of Technology,Massachusetts Institue of Technology,Ashish Rameshchandra Kacholia
+Gravita India,GRAVITA,RecentAdd,2,1,1,2,HNI | FII,Ashish Rameshchandra Kacholia | Jupiter India Fund,Jupiter India Fund,Ashish Rameshchandra Kacholia
+SJS Enterprises,SJS,RecentAdd,2,1,0,2,HNI | FII,Ashish Rameshchandra Kacholia | Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+Time Technoplast,TIMETECHNO,RecentAdd,2,1,0,2,HNI | DII,Ashish Rameshchandra Kacholia | 3P India Equity Fund 1,3P India Equity Fund 1,
+Balkrishna Inds,BALKRISIND,RecentAdd,2,1,0,1,DII,Parag Parikh Flexi Cap Fund | Kotak Emergency Equity Scheme,Parag Parikh Flexi Cap Fund,
+Bharat Forge,BHARATFORG,RecentAdd,2,1,0,1,DII,Mirae Asset Large &amp; Midcap Fund | Kotak Emergency Equity Scheme,Mirae Asset Large &amp; Midcap Fund,
+Fortis Health.,FORTIS,RecentAdd,2,1,1,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Jupiter India Fund,Jupiter India Fund,Mirae Asset Large &amp; Midcap Fund
+Guj.St.Petronet,GSPL,RecentAdd,2,1,0,1,DII,Mirae Asset Large &amp; Midcap Fund | Kotak Emergency Equity Scheme,Mirae Asset Large &amp; Midcap Fund,
+L&T Finance Ltd,LTF,RecentAdd,2,1,0,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Small Cap World Fund Inc,Mirae Asset Large &amp; Midcap Fund,
+Whirlpool India,WHIRLPOOL,RecentAdd,2,1,1,1,DII,Mirae Asset Large &amp; Midcap Fund | Kotak Emergency Equity Scheme,Mirae Asset Large &amp; Midcap Fund,Kotak Emergency Equity Scheme
+Landmark Cars,LANDMARK,RecentAdd,2,1,1,2,DII | FII,3P India Equity Fund 1 | Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,3P India Equity Fund 1
+AIA Engineering,AIAENG,RecentAdd,2,1,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | NALANDA INDIA EQUITY FUND nLIMITED,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,NALANDA INDIA EQUITY FUND nLIMITED
+AU Small Finance,AUBANK,RecentAdd,2,1,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Small Cap World Fund Inc
+City Union Bank,CUB,RecentAdd,2,1,0,2,DII | FII,Kotak Emergency Equity Scheme | Small Cap World Fund Inc,Small Cap World Fund Inc,
+Ratnamani Metals,RATNAMANI,RecentAdd,2,1,1,2,DII | FII,Kotak Emergency Equity Scheme | NALANDA INDIA EQUITY FUND nLIMITED,Kotak Emergency Equity Scheme,NALANDA INDIA EQUITY FUND nLIMITED
+INDIA SHELTE FIN,INDIASHLTR,RecentAdd,2,1,1,2,DII | FII,Quant Mutual Fund - Quant Small Cap Fund | Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,Quant Mutual Fund - Quant Small Cap Fund
+Thyrocare Tech.,THYROCARE,RecentAdd,2,1,0,2,DII | FII,Quant Mutual Fund - Quant Small Cap Fund | NALANDA INDIA EQUITY FUND nLIMITED,Quant Mutual Fund - Quant Small Cap Fund,
+Mahindra Life.,MAHLIFE,RecentAdd,2,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,Goldman Sachs Funds - Goldman Sachs India Equity P,
+PVR Inox,PVRINOX,RecentAdd,2,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,Goldman Sachs Funds - Goldman Sachs India Equity P,
+Global Vectra,GLOBALVECT,RecentAdd,1,1,0,1,HNI,Vijay Kishanlal Kedia,Vijay Kishanlal Kedia,
+One 97,PAYTM,RecentAdd,1,1,0,1,HNI,Akash Bhanshali,Akash Bhanshali,
+Hind Rectifiers,HIRECT,RecentAdd,1,1,0,1,HNI,Mukul Mahavir Agrawal,Mukul Mahavir Agrawal,
+ISMT,ISMTLTD,RecentAdd,1,1,0,1,HNI,Mukul Mahavir Agrawal,Mukul Mahavir Agrawal,
+Bajaj Holdings,BAJAJHLDNG,RecentAdd,1,1,0,1,DII,Parag Parikh Flexi Cap Fund,Parag Parikh Flexi Cap Fund,
+C D S L,CDSL,RecentAdd,1,1,0,1,DII,Parag Parikh Flexi Cap Fund,Parag Parikh Flexi Cap Fund,
+Coal India,COALINDIA,RecentAdd,1,1,0,1,DII,Parag Parikh Flexi Cap Fund,Parag Parikh Flexi Cap Fund,
+Mah. Scooters,MAHSCOOTER,RecentAdd,1,1,0,1,DII,Parag Parikh Flexi Cap Fund,Parag Parikh Flexi Cap Fund,
+Craftsman Auto,CRAFTSMAN,RecentAdd,1,1,0,1,DII,Mirae Asset Large &amp; Midcap Fund,Mirae Asset Large &amp; Midcap Fund,
+Deepak Nitrite,DEEPAKNTR,RecentAdd,1,1,0,1,DII,Mirae Asset Large &amp; Midcap Fund,Mirae Asset Large &amp; Midcap Fund,
+Go Digit General,GODIGIT,RecentAdd,1,1,0,1,DII,Mirae Asset Large &amp; Midcap Fund,Mirae Asset Large &amp; Midcap Fund,
+Lupin,LUPIN,RecentAdd,1,1,0,1,DII,Mirae Asset Large &amp; Midcap Fund,Mirae Asset Large &amp; Midcap Fund,
+Jindal Steel,JINDALSTEL,RecentAdd,1,1,0,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,
+KNR Construct.,KNRCON,RecentAdd,1,1,0,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,
+Blue Star,BLUESTARCO,RecentAdd,1,1,0,1,DII,Kotak Emergency Equity Scheme,Kotak Emergency Equity Scheme,
+Emami,EMAMILTD,RecentAdd,1,1,0,1,DII,Kotak Emergency Equity Scheme,Kotak Emergency Equity Scheme,
+Oberoi Realty,OBEROIRLTY,RecentAdd,1,1,0,1,DII,Kotak Emergency Equity Scheme,Kotak Emergency Equity Scheme,
+Aarti Pharma,AARTIPHARM,RecentAdd,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
+Apeejay Surrend.,PARKHOTELS,RecentAdd,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
+Engineers India,ENGINERSIN,RecentAdd,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
+Exicom Tele-Sys.,EXICOM,RecentAdd,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
+H U D C O,HUDCO,RecentAdd,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
+Indrapr.Medical,INDRAMEDCO,RecentAdd,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
+Jubilant Pharmo,JUBLPHARMA,RecentAdd,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
+Prime Securities,PRIMESECU,RecentAdd,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
+S C I,SCI,RecentAdd,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
+Archean Chemical,ACI,RecentAdd,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+Gokaldas Exports,GOKEX,RecentAdd,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+Inox India,INOXINDIA,RecentAdd,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+ISGEC Heavy,ISGEC,RecentAdd,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+JK Lakshmi Cem.,JKLAKSHMI,RecentAdd,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+Jupiter Life Lin,JLHL,RecentAdd,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+KFin Technolog.,KFINTECH,RecentAdd,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+Medplus Health,MEDPLUS,RecentAdd,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+Rategain Travel,RATEGAIN,RecentAdd,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+Spandana Sphoort,SPANDANA,RecentAdd,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+Suven Pharma,SUVENPHAR,RecentAdd,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+Zensar Tech.,ZENSARTECH,RecentAdd,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+Aptus Value Hou.,APTUS,RecentAdd,1,1,0,1,FII,Small Cap World Fund Inc,Small Cap World Fund Inc,
+Entero Healthcar,ENTERO,RecentAdd,1,1,0,1,FII,Small Cap World Fund Inc,Small Cap World Fund Inc,
+IIFL Finance,IIFL,RecentAdd,1,1,0,1,FII,Small Cap World Fund Inc,Small Cap World Fund Inc,
+Inox Wind,INOXWIND,RecentAdd,1,1,0,1,FII,Small Cap World Fund Inc,Small Cap World Fund Inc,
+Manappuram Fin.,MANAPPURAM,RecentAdd,1,1,0,1,FII,Small Cap World Fund Inc,Small Cap World Fund Inc,
+Medi Assist Ser.,MEDIASSIST,RecentAdd,1,1,0,1,FII,Jupiter India Fund,Jupiter India Fund,
+Yatharth Hospit.,YATHARTH,RecentAdd,1,1,0,1,FII,Jupiter India Fund,Jupiter India Fund,
+Atul,ATUL,RecentDel,3,0,3,1,DII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme,,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme
+Laurus Labs,LAURUSLABS,RecentDel,4,0,2,3,HNI | DII | FII,Akash Bhanshali | Mirae Asset Large &amp; Midcap Fund | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,Mirae Asset Large &amp; Midcap Fund | Small Cap World Fund Inc
+PB Fintech.,POLICYBZR,RecentDel,3,1,2,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Mirae Asset Large &amp; Midcap Fund | Small Cap World Fund Inc
+SKF India,SKFINDIA,RecentDel,3,0,2,1,DII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme,,Mirae Asset Large &amp; Midcap Fund | Kotak Emergency Equity Scheme
+Shankara Build.,SHANKARA,RecentDel,2,0,2,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia
+Aditya Vision,540205,RecentDel,2,0,2,2,HNI | FII,Ashish Rameshchandra Kacholia | Small Cap World Fund Inc,,Ashish Rameshchandra Kacholia | Small Cap World Fund Inc
+NIIT Learning,NIITMTS,RecentDel,2,0,2,2,HNI | FII,Ashish Rameshchandra Kacholia | Massachusetts Institue of Technology,,Ashish Rameshchandra Kacholia | Massachusetts Institue of Technology
+Tata Comm,TATACOMM,RecentDel,2,0,2,1,DII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
+Solar Industries,SOLARINDS,RecentDel,2,0,2,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme
+PNC Infratech,PNCINFRA,RecentDel,2,0,2,2,DII | FII,Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P,,Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P
+V-Guard Industri,VGUARD,RecentDel,2,0,2,2,DII | FII,Kotak Emergency Equity Scheme | NALANDA INDIA EQUITY FUND nLIMITED,,Kotak Emergency Equity Scheme | NALANDA INDIA EQUITY FUND nLIMITED
+Bajaj Consumer,BAJAJCON,RecentDel,2,0,2,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,,Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund
+MRF,MRF,RecentDel,2,0,2,1,FII,Small Cap World Fund Inc | NALANDA INDIA EQUITY FUND nLIMITED,,Small Cap World Fund Inc | NALANDA INDIA EQUITY FUND nLIMITED
+Coforge,COFORGE,RecentDel,5,2,1,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,Kotak Emergency Equity Scheme
+Repro India,REPRO,RecentDel,4,0,1,1,HNI,Madhuri Madhusudan Kela | Vijay Kishanlal Kedia | Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
+Delta Corp,DELTACORP,RecentDel,4,0,1,3,HNI | DII | FII,Mukul Mahavir Agrawal | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
+KEI Industries,KEI,RecentDel,4,0,1,2,HNI | FII,Ashish Rameshchandra Kacholia | Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,Small Cap World Fund Inc
+Matrimony.com,MATRIMONY,RecentDel,4,0,1,1,FII,Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc | NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+Prism Johnson,PRSMJOHNSN,RecentDel,3,0,1,2,HNI | FII,Akash Bhanshali | Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,,Jupiter India Fund
+Ethos Ltd,ETHOSLTD,RecentDel,3,2,1,2,HNI | FII,Mukul Mahavir Agrawal | Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,Mukul Mahavir Agrawal
+Newgen Software,NEWGEN,RecentDel,3,0,1,2,HNI | FII,Mukul Mahavir Agrawal | Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P,,Goldman Sachs Funds - Goldman Sachs India Equity P
+Sula Vineyards,SULA,RecentDel,3,0,1,2,HNI | FII,Mukul Mahavir Agrawal | Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,,Goldman Sachs Funds - Goldman Sachs India Equity P
+Cummins India,CUMMINSIND,RecentDel,3,1,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Small Cap World Fund Inc,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Kotak Emergency Equity Scheme
+Dixon Technolog.,DIXON,RecentDel,3,0,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P,,Kotak Emergency Equity Scheme
+H P C L,HINDPETRO,RecentDel,3,1,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Jupiter India Fund,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Kotak Emergency Equity Scheme
+Amara Raja Ener.,ARE&M,RecentDel,3,0,1,2,DII | FII,Kotak Emergency Equity Scheme | Small Cap World Fund Inc | NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+Thermax,THERMAX,RecentDel,3,0,1,2,DII | FII,Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P | NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+Va Tech Wabag,WABAG,RecentDel,3,0,1,2,DII | FII,Quant Mutual Fund - Quant Small Cap Fund | Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P,,Quant Mutual Fund - Quant Small Cap Fund
+Cera Sanitary.,CERA,RecentDel,2,0,1,2,HNI | FII,Vijay Kishanlal Kedia | NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+Vaibhav Global,VAIBHAVGBL,RecentDel,2,1,1,1,HNI,Vijay Kishanlal Kedia | Ashish Rameshchandra Kacholia,Vijay Kishanlal Kedia,Ashish Rameshchandra Kacholia
+Arvind Fashions.,ARVINDFASN,RecentDel,2,0,1,1,HNI,Akash Bhanshali | Ashish Rameshchandra Kacholia,,Akash Bhanshali
+Greenlam Industr,GREENLAM,RecentDel,2,0,1,2,HNI | DII,Akash Bhanshali | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
+Natco Pharma,NATCOPHARM,RecentDel,2,0,1,2,HNI | DII,Akash Bhanshali | Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
+Allcargo Gati,ACLGATI,RecentDel,2,0,1,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Mukul Mahavir Agrawal
+Apollo Pipes,APOLLOPIPE,RecentDel,2,0,1,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Mukul Mahavir Agrawal
+CEAT,CEATLTD,RecentDel,2,0,1,2,HNI | DII,Mukul Mahavir Agrawal | Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
+Hindware Home In,HINDWAREAP,RecentDel,2,0,1,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Mukul Mahavir Agrawal
+Sequent Scien.,SEQUENT,RecentDel,2,0,1,2,HNI | DII,Mukul Mahavir Agrawal | Quant Mutual Fund - Quant Small Cap Fund,,Quant Mutual Fund - Quant Small Cap Fund
+SG Finserve,539199,RecentDel,2,0,1,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
+Shaily Engineer.,SHAILY,RecentDel,2,0,1,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
+Zen Technologies,ZENTEC,RecentDel,2,0,1,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Mukul Mahavir Agrawal
+Ami Organics,AMIORG,RecentDel,2,0,1,2,HNI | FII,Ashish Rameshchandra Kacholia | Small Cap World Fund Inc,,Ashish Rameshchandra Kacholia
+Barbeque-Nation,BARBEQUE,RecentDel,2,1,1,2,HNI | FII,Ashish Rameshchandra Kacholia | Massachusetts Institue of Technology,Massachusetts Institue of Technology,Ashish Rameshchandra Kacholia
+Gravita India,GRAVITA,RecentDel,2,1,1,2,HNI | FII,Ashish Rameshchandra Kacholia | Jupiter India Fund,Jupiter India Fund,Ashish Rameshchandra Kacholia
+NIIT,NIITLTD,RecentDel,2,0,1,2,HNI | FII,Ashish Rameshchandra Kacholia | Massachusetts Institue of Technology,,Massachusetts Institue of Technology
+EID Parry,EIDPARRY,RecentDel,2,0,1,1,DII,Parag Parikh Flexi Cap Fund | Quant Mutual Fund - Quant Small Cap Fund,,Quant Mutual Fund - Quant Small Cap Fund
+Fortis Health.,FORTIS,RecentDel,2,1,1,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Jupiter India Fund,Jupiter India Fund,Mirae Asset Large &amp; Midcap Fund
+Prestige Estates,PRESTIGE,RecentDel,2,0,1,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Goldman Sachs Funds - Goldman Sachs India Equity P,,Mirae Asset Large &amp; Midcap Fund
+Whirlpool India,WHIRLPOOL,RecentDel,2,1,1,1,DII,Mirae Asset Large &amp; Midcap Fund | Kotak Emergency Equity Scheme,Mirae Asset Large &amp; Midcap Fund,Kotak Emergency Equity Scheme
+Landmark Cars,LANDMARK,RecentDel,2,1,1,2,DII | FII,3P India Equity Fund 1 | Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,3P India Equity Fund 1
+AIA Engineering,AIAENG,RecentDel,2,1,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | NALANDA INDIA EQUITY FUND nLIMITED,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,NALANDA INDIA EQUITY FUND nLIMITED
+AU Small Finance,AUBANK,RecentDel,2,1,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Small Cap World Fund Inc
+Max Healthcare,MAXHEALTH,RecentDel,2,0,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,,Small Cap World Fund Inc
+Redington,REDINGTON,RecentDel,2,0,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Massachusetts Institue of Technology,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
+Ratnamani Metals,RATNAMANI,RecentDel,2,1,1,2,DII | FII,Kotak Emergency Equity Scheme | NALANDA INDIA EQUITY FUND nLIMITED,Kotak Emergency Equity Scheme,NALANDA INDIA EQUITY FUND nLIMITED
+Sheela Foam,SFL,RecentDel,2,0,1,2,DII | FII,Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P,,Kotak Emergency Equity Scheme
+Sundaram Finance,SUNDARMFIN,RecentDel,2,0,1,2,DII | FII,Kotak Emergency Equity Scheme | NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+INDIA SHELTE FIN,INDIASHLTR,RecentDel,2,1,1,2,DII | FII,Quant Mutual Fund - Quant Small Cap Fund | Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,Quant Mutual Fund - Quant Small Cap Fund
+Metropolis Healt,METROPOLIS,RecentDel,2,0,1,2,DII | FII,Quant Mutual Fund - Quant Small Cap Fund | Small Cap World Fund Inc,,Quant Mutual Fund - Quant Small Cap Fund
+NCC,NCC,RecentDel,2,0,1,1,FII,Massachusetts Institue of Technology | Small Cap World Fund Inc,,Small Cap World Fund Inc
+Angel One,ANGELONE,RecentDel,2,0,1,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,Small Cap World Fund Inc
+Havells India,HAVELLS,RecentDel,2,0,1,1,FII,Small Cap World Fund Inc | NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+Triveni Turbine,TRITURBINE,RecentDel,2,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED | Jupiter India Fund,,NALANDA INDIA EQUITY FUND nLIMITED
+Samhi Hotels,SAMHI,RecentDel,1,0,1,1,HNI,Madhuri Madhusudan Kela,,Madhuri Madhusudan Kela
+T R I L,TARIL,RecentDel,1,0,1,1,HNI,Madhuri Madhusudan Kela,,Madhuri Madhusudan Kela
+Affordable Robo.,541402,RecentDel,1,0,1,1,HNI,Vijay Kishanlal Kedia,,Vijay Kishanlal Kedia
+Talbros Auto.,TALBROAUTO,RecentDel,1,0,1,1,HNI,Vijay Kishanlal Kedia,,Vijay Kishanlal Kedia
+Schneider Elect.,SCHNEIDER,RecentDel,1,0,1,1,HNI,Akash Bhanshali,,Akash Bhanshali
+Shilpa Medicare,SHILPAMED,RecentDel,1,0,1,1,HNI,Akash Bhanshali,,Akash Bhanshali
+Sterlite Tech.,STLTECH,RecentDel,1,0,1,1,HNI,Akash Bhanshali,,Akash Bhanshali
+Concord Control,543619,RecentDel,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
+Dhabriya Poly.,538715,RecentDel,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
+Dish TV India,DISHTV,RecentDel,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
+Indian Metals,IMFA,RecentDel,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
+InfoBeans Tech.,INFOBEAN,RecentDel,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
+Jagsonpal Pharma,JAGSNPHARM,RecentDel,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
+Nuvama Wealth,NUVAMA,RecentDel,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
+Thejo Engg.,THEJO,RecentDel,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
+Tracxn Technolo.,TRACXN,RecentDel,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
+Zota Health Care,ZOTA,RecentDel,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
+Ador Welding,ADORWELD,RecentDel,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
+DU Digital,DUGLOBAL,RecentDel,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
+Fineotex Chem,FCL,RecentDel,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
+Garware Hi Tech,GRWRHITECH,RecentDel,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
+HLE Glascoat,HLEGLAS,RecentDel,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
+Inflame Applian.,541083,RecentDel,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
+Knowledge Marine,543273,RecentDel,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
+PCBL Ltd,PCBL,RecentDel,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
+Sastasundar Ven.,SASTASUNDR,RecentDel,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
+Virtuoso Optoel.,543597,RecentDel,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
+Indraprastha Gas,IGL,RecentDel,1,0,1,1,DII,Parag Parikh Flexi Cap Fund,,Parag Parikh Flexi Cap Fund
+Motil.Oswal.Fin.,MOTILALOFS,RecentDel,1,0,1,1,DII,Parag Parikh Flexi Cap Fund,,Parag Parikh Flexi Cap Fund
+Power Grid Corpn,POWERGRID,RecentDel,1,0,1,1,DII,Parag Parikh Flexi Cap Fund,,Parag Parikh Flexi Cap Fund
+Bayer Crop Sci.,BAYERCROP,RecentDel,1,0,1,1,DII,Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
+Data Pattern,DATAPATTNS,RecentDel,1,0,1,1,DII,Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
+Eicher Motors,EICHERMOT,RecentDel,1,0,1,1,DII,Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
+Prince Pipes,PRINCEPIPE,RecentDel,1,0,1,1,DII,Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
+Sapphire Foods,SAPPHIRE,RecentDel,1,0,1,1,DII,Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
+Arvind Ltd,ARVIND,RecentDel,1,0,1,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
+Bharat Electron,BEL,RecentDel,1,0,1,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
+Greenpanel Inds.,GREENPANEL,RecentDel,1,0,1,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
+K E C Intl.,KEC,RecentDel,1,0,1,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
+Symphony,SYMPHONY,RecentDel,1,0,1,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
+Tata Chemicals,TATACHEM,RecentDel,1,0,1,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
+Kewal Kir.Cloth.,KKCL,RecentDel,1,0,1,1,DII,Kotak Emergency Equity Scheme,,Kotak Emergency Equity Scheme
+Schaeffler India,SCHAEFFLER,RecentDel,1,0,1,1,DII,Kotak Emergency Equity Scheme,,Kotak Emergency Equity Scheme
+Britannia Inds.,BRITANNIA,RecentDel,1,0,1,1,DII,Quant Mutual Fund - Quant Small Cap Fund,,Quant Mutual Fund - Quant Small Cap Fund
+Jash Engineering,JASH,RecentDel,1,0,1,1,DII,Quant Mutual Fund - Quant Small Cap Fund,,Quant Mutual Fund - Quant Small Cap Fund
+Vishnu Prakash R,VPRPL,RecentDel,1,0,1,1,DII,Quant Mutual Fund - Quant Small Cap Fund,,Quant Mutual Fund - Quant Small Cap Fund
+Action Const.Eq.,ACE,RecentDel,1,0,1,1,FII,Massachusetts Institue of Technology,,Massachusetts Institue of Technology
+Equitas Sma. Fin,EQUITASBNK,RecentDel,1,0,1,1,FII,Massachusetts Institue of Technology,,Massachusetts Institue of Technology
+Globus Spirits,GLOBUSSPR,RecentDel,1,0,1,1,FII,Massachusetts Institue of Technology,,Massachusetts Institue of Technology
+ITD Cem,ITDCEM,RecentDel,1,0,1,1,FII,Massachusetts Institue of Technology,,Massachusetts Institue of Technology
+Star Health Insu,STARHEALTH,RecentDel,1,0,1,1,FII,Massachusetts Institue of Technology,,Massachusetts Institue of Technology
+360 ONE,360ONE,RecentDel,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
+AAVAS Financiers,AAVAS,RecentDel,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
+Aegis Logistics,AEGISLOG,RecentDel,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
+Cholaman.Inv.&Fn,CHOLAFIN,RecentDel,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
+Five-Star Bus.Fi,FIVESTAR,RecentDel,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
+Glenmark Pharma.,GLENMARK,RecentDel,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
+Home First Finan,HOMEFIRST,RecentDel,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
+SIS,SIS,RecentDel,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
+Tanla Platforms,TANLA,RecentDel,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
+Titagarh Rail,TITAGARH,RecentDel,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
+Tube Investments,TIINDIA,RecentDel,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
+Advanced Enzyme,ADVENZYMES,RecentDel,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+Ahluwalia Contr.,AHLUCONT,RecentDel,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+D B Corp,DBCORP,RecentDel,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+Elgi Equipments,ELGIEQUIP,RecentDel,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+GE Shipping Co,GESHIP,RecentDel,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+Info Edg.(India),NAUKRI,RecentDel,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+Jyothy Labs,JYOTHYLAB,RecentDel,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+NRB Bearings,NRBBEARING,RecentDel,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+TTK Prestige,TTKPRESTIG,RecentDel,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+Volt.Transform.,VOLTAMP,RecentDel,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+Godfrey Phillips,GODFRYPHLP,RecentDel,1,0,1,1,FII,Jupiter India Fund,,Jupiter India Fund
+Milkfood,507621,RecentDel,1,0,1,1,FII,Jupiter India Fund,,Jupiter India Fund
+Bombay Dyeing,BOMDYEING,ALL,1,0,0,1,HNI,Madhuri Madhusudan Kela,,
+Indostar Capital,INDOSTAR,ALL,2,0,0,2,HNI | FII,Madhuri Madhusudan Kela | Jupiter India Fund,,
+IRIS Business,IRIS,ALL,1,0,0,1,HNI,Madhuri Madhusudan Kela,,
+Kopran,KOPRAN,ALL,1,0,0,1,HNI,Madhuri Madhusudan Kela,,
+MKVentures Cap.,514238,ALL,1,0,0,1,HNI,Madhuri Madhusudan Kela,,
+Niyogin Fintech,538772,ALL,1,0,0,1,HNI,Madhuri Madhusudan Kela,,
+Radico Khaitan,RADICO,ALL,4,0,0,2,HNI | FII,Madhuri Madhusudan Kela | Mukul Mahavir Agrawal | Massachusetts Institue of Technology | Small Cap World Fund Inc,,
+Rashi Peripheral,RPTECH,ALL,1,0,0,1,HNI,Madhuri Madhusudan Kela,,
+Repro India,REPRO,ALL,4,0,1,1,HNI,Madhuri Madhusudan Kela | Vijay Kishanlal Kedia | Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
+Samhi Hotels,SAMHI,ALL,1,0,1,1,HNI,Madhuri Madhusudan Kela,,Madhuri Madhusudan Kela
+Sangam India,SANGAMIND,ALL,1,0,0,1,HNI,Madhuri Madhusudan Kela,,
+T R I L,TARIL,ALL,1,0,1,1,HNI,Madhuri Madhusudan Kela,,Madhuri Madhusudan Kela
+ABC Bearings,ANTFRIBEAR,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
+Affordable Robo.,541402,ALL,1,0,1,1,HNI,Vijay Kishanlal Kedia,,Vijay Kishanlal Kedia
+Apcotex Industri,APCOTEXIND,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
+Aries Agro,ARIES,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
+Atul Auto,ATULAUTO,ALL,2,0,0,2,HNI | FII,Vijay Kishanlal Kedia | Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Cera Sanitary.,CERA,ALL,2,0,1,2,HNI | FII,Vijay Kishanlal Kedia | NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+Cheviot Company,CHEVIOT,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
+Elecon Engg.Co,ELECON,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
+Everest Inds.,EVERESTIND,ALL,2,0,0,2,HNI | FII,Vijay Kishanlal Kedia | Massachusetts Institue of Technology,,
+Global Vectra,GLOBALVECT,ALL,1,1,0,1,HNI,Vijay Kishanlal Kedia,Vijay Kishanlal Kedia,
+Innovators,541353,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
+Karnataka Bank,KTKBANK,ALL,2,0,0,2,HNI | DII,Vijay Kishanlal Kedia | Quant Mutual Fund - Quant Small Cap Fund,,
+Kokuyo Camlin,KOKUYOCMLN,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
+Lykis,530689,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
+Mahindra Holiday,MHRIL,ALL,2,1,0,2,HNI | DII,Vijay Kishanlal Kedia | 3P India Equity Fund 1,3P India Equity Fund 1,
+MIRC Electronics,MIRCELECTR,ALL,2,0,0,1,HNI,Vijay Kishanlal Kedia | Ashish Rameshchandra Kacholia,,
+Pakka,PAKKA,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
+Panasonic Energy,LAKHNNATNL,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
+Precision Camshf,PRECAM,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
+Ramco Systems,RAMCOSYS,ALL,2,0,0,2,HNI | FII,Vijay Kishanlal Kedia | Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Sibar Software,532302,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
+Siyaram Silk,SIYSIL,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
+Speciality Rest.,SPECIALITY,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
+Stewarts & Lloyd,504960,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
+Sudarshan Chem.,SUDARSCHEM,ALL,2,0,0,2,HNI | FII,Vijay Kishanlal Kedia | Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Talbros Auto.,TALBROAUTO,ALL,1,0,1,1,HNI,Vijay Kishanlal Kedia,,Vijay Kishanlal Kedia
+TCPL Packaging,TCPLPACK,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
+Tejas Networks,TEJASNET,ALL,1,0,0,1,HNI,Vijay Kishanlal Kedia,,
+Vaibhav Global,VAIBHAVGBL,ALL,2,1,1,1,HNI,Vijay Kishanlal Kedia | Ashish Rameshchandra Kacholia,Vijay Kishanlal Kedia,Ashish Rameshchandra Kacholia
+Amber Enterp.,AMBER,ALL,3,1,0,3,HNI | DII | FII,Akash Bhanshali | Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+Aroni Commercial,512273,ALL,1,0,0,1,HNI,Akash Bhanshali,,
+Arvind Fashions.,ARVINDFASN,ALL,2,0,1,1,HNI,Akash Bhanshali | Ashish Rameshchandra Kacholia,,Akash Bhanshali
+Balrampur Chini,BALRAMCHIN,ALL,4,1,0,3,HNI | DII | FII,Akash Bhanshali | Quant Mutual Fund - Quant Small Cap Fund | Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P,Quant Mutual Fund - Quant Small Cap Fund,
+Career Point,CAREERP,ALL,1,0,0,1,HNI,Akash Bhanshali,,
+Dilip Buildcon,DBL,ALL,3,2,0,3,HNI | DII | FII,Akash Bhanshali | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,Akash Bhanshali | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,
+GeeCee Vent.,GEECEE,ALL,1,0,0,1,HNI,Akash Bhanshali,,
+Genus Power,GENUSPOWER,ALL,2,0,0,1,HNI,Akash Bhanshali | Ashish Rameshchandra Kacholia,,
+Granules India,GRANULES,ALL,1,0,0,1,HNI,Akash Bhanshali,,
+Greenlam Industr,GREENLAM,ALL,2,0,1,2,HNI | DII,Akash Bhanshali | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
+Gujarat Fluoroch,FLUOROCHEM,ALL,3,0,0,3,HNI | DII | FII,Akash Bhanshali | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,,
+Hathway Cable,HATHWAY,ALL,2,0,0,2,HNI | FII,Akash Bhanshali | Small Cap World Fund Inc,,
+I D F C,IDFC,ALL,1,0,0,1,HNI,Akash Bhanshali,,
+Inox Wind Energy,IWEL,ALL,1,0,0,1,HNI,Akash Bhanshali,,
+Khaitan Elect.,KHAITANELE,ALL,1,0,0,1,HNI,Akash Bhanshali,,
+Laurus Labs,LAURUSLABS,ALL,4,0,2,3,HNI | DII | FII,Akash Bhanshali | Mirae Asset Large &amp; Midcap Fund | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,Mirae Asset Large &amp; Midcap Fund | Small Cap World Fund Inc
+Mah. Seamless,MAHSEAMLES,ALL,2,1,0,2,HNI | DII,Akash Bhanshali | Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
+Mahindra Logis.,MAHLOG,ALL,3,0,0,2,HNI | FII,Akash Bhanshali | Ashish Rameshchandra Kacholia | Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Mercator,MERCATOR,ALL,1,0,0,1,HNI,Akash Bhanshali,,
+Natco Pharma,NATCOPHARM,ALL,2,0,1,2,HNI | DII,Akash Bhanshali | Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
+One 97,PAYTM,ALL,1,1,0,1,HNI,Akash Bhanshali,Akash Bhanshali,
+Parag Milk Foods,PARAGMILK,ALL,4,0,0,2,HNI | FII,Akash Bhanshali | Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia | Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Polyplex Corpn,POLYPLEX,ALL,1,0,0,1,HNI,Akash Bhanshali,,
+Pratibha Industr,PRATIBHA,ALL,1,0,0,1,HNI,Akash Bhanshali,,
+Praxis Home,PRAXIS,ALL,1,0,0,1,HNI,Akash Bhanshali,,
+Prism Johnson,PRSMJOHNSN,ALL,3,0,1,2,HNI | FII,Akash Bhanshali | Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,,Jupiter India Fund
+Ramkrishna Forg.,RKFORGE,ALL,4,1,0,3,HNI | DII | FII,Akash Bhanshali | Kotak Emergency Equity Scheme | Massachusetts Institue of Technology | Small Cap World Fund Inc,Small Cap World Fund Inc,
+Sandhar Tech,SANDHAR,ALL,1,0,0,1,HNI,Akash Bhanshali,,
+Saraswati Commer,512020,ALL,1,0,0,1,HNI,Akash Bhanshali,,
+Schneider Elect.,SCHNEIDER,ALL,1,0,1,1,HNI,Akash Bhanshali,,Akash Bhanshali
+Shilpa Medicare,SHILPAMED,ALL,1,0,1,1,HNI,Akash Bhanshali,,Akash Bhanshali
+Shreenath Invest,503696,ALL,1,0,0,1,HNI,Akash Bhanshali,,
+Sterlite Tech.,STLTECH,ALL,1,0,1,1,HNI,Akash Bhanshali,,Akash Bhanshali
+Usha Martin,USHAMART,ALL,2,1,0,2,HNI | DII,Akash Bhanshali | Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
+Vascon Engineers,VASCONEQ,ALL,1,0,0,1,HNI,Akash Bhanshali,,
+Welspun Living,WELSPUNLIV,ALL,1,0,0,1,HNI,Akash Bhanshali,,
+Zodiac Cloth. Co,ZODIACLOTH,ALL,1,0,0,1,HNI,Akash Bhanshali,,
+ADF Foods,ADFFOODS,ALL,2,0,0,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,
+AGI Greenpac,AGI,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Allcargo Gati,ACLGATI,ALL,2,0,1,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Mukul Mahavir Agrawal
+Allcargo Logist.,ALLCARGO,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Allcargo Termi,ATL,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Apollo Pipes,APOLLOPIPE,ALL,2,0,1,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Mukul Mahavir Agrawal
+Arman Financial,ARMANFIN,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Arrow Greentech,ARROWGREEN,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Artefact Project,531297,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Asian Granito,ASIANTILES,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+BEML Ltd,BEML,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Bhagiradha Chem.,BHAGCHEM,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Bharat Bijlee,BBL,ALL,2,0,0,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,
+Birlasoft Ltd,BSOFT,ALL,3,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia | Small Cap World Fund Inc,,
+BSE,BSE,ALL,2,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Jupiter India Fund,,
+Cambridge Tech.,CTE,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Capacit'e Infra.,CAPACITE,ALL,2,1,0,2,HNI | FII,Mukul Mahavir Agrawal | Goldman Sachs Funds - Goldman Sachs India Equity P,Mukul Mahavir Agrawal,
+CEAT,CEATLTD,ALL,2,0,1,2,HNI | DII,Mukul Mahavir Agrawal | Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
+CG Power & Ind,CGPOWER,ALL,2,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Small Cap World Fund Inc,,
+CL Educate,CLEDUCATE,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Concord Control,543619,ALL,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
+Cords Cable,CORDSCABLE,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+DE Nora India,DENORA,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Delphi World,DELPHIFX,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Delta Corp,DELTACORP,ALL,4,0,1,3,HNI | DII | FII,Mukul Mahavir Agrawal | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
+Dhabriya Poly.,538715,ALL,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
+Dish TV India,DISHTV,ALL,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
+Dishman Carbogen,DCAL,ALL,2,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Massachusetts Institue of Technology,,
+Dolphin Offshore,DOLPHIN,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Dredging Corpn.,DREDGECORP,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Dwarikesh Sugar,DWARKESH,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Dynamatic Tech.,DYNAMATECH,ALL,2,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Goldman Sachs Funds - Goldman Sachs India Equity P,,
+EKI Energy,543284,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Ethos Ltd,ETHOSLTD,ALL,3,2,1,2,HNI | FII,Mukul Mahavir Agrawal | Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,Mukul Mahavir Agrawal
+G M Breweries,GMBREW,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Gensol Engineer.,GENSOL,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Goldiam Intl.,GOLDIAM,ALL,2,0,0,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,
+GPT Infraproject,GPTINFRA,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Greaves Cotton,GREAVESCOT,ALL,3,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Massachusetts Institue of Technology | Small Cap World Fund Inc,,
+GVK Power Infra.,GVKPIL,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Himatsing. Seide,HIMATSEIDE,ALL,2,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Jupiter India Fund,,
+Hind Rectifiers,HIRECT,ALL,1,1,0,1,HNI,Mukul Mahavir Agrawal,Mukul Mahavir Agrawal,
+Hind.Dorr-Oliver,HINDDORROL,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Hind.Oil Explor.,HINDOILEXP,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Hindware Home In,HINDWAREAP,ALL,2,0,1,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Mukul Mahavir Agrawal
+Indiamart Inter.,INDIAMART,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Indian Metals,IMFA,ALL,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
+Indo Count Inds.,ICIL,ALL,3,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia | Jupiter India Fund,,
+InfoBeans Tech.,INFOBEAN,ALL,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
+Intellect Design,INTELLECT,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+ION Exchange,IONEXCHANG,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+ISMT,ISMTLTD,ALL,1,1,0,1,HNI,Mukul Mahavir Agrawal,Mukul Mahavir Agrawal,
+J Kumar Infra,JKIL,ALL,3,1,0,3,HNI | DII | FII,Mukul Mahavir Agrawal | 3P India Equity Fund 1 | Goldman Sachs Funds - Goldman Sachs India Equity P,3P India Equity Fund 1,
+Jagsonpal Pharma,JAGSNPHARM,ALL,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
+Jet Freight,JETFREIGHT,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Jet Knitwears,JETKNIT,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+JTEKT India,JTEKTINDIA,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Kamdhenu,KAMDHENU,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Kanoria Chem.,KANORICHEM,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Karur Vysya Bank,KARURVYSYA,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Kingfa Science,KINGFA,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+L T Foods,LTFOODS,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Lak. Vilas Bank,LAKSHVILAS,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Lovable Lingerie,LOVABLE,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Lux Industries,LUXIND,ALL,2,1,0,2,HNI | FII,Mukul Mahavir Agrawal | Jupiter India Fund,Mukul Mahavir Agrawal,
+Mahindra EPC,MAHEPC,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Manpasand Bever.,MANPASAND,ALL,2,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Marksans Pharma,MARKSANS,ALL,2,0,0,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,
+Mastek,MASTEK,ALL,3,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia | Small Cap World Fund Inc,,
+Mcleod Russel,MCLEODRUSS,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+MPS,MPSLTD,ALL,2,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Goldman Sachs Funds - Goldman Sachs India Equity P,,
+MSTC,MSTCLTD,ALL,3,1,0,2,HNI | FII,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia | Jupiter India Fund,Jupiter India Fund,
+MTAR Technologie,MTARTECH,ALL,2,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Navkar Corporat.,NAVKARCORP,ALL,2,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Neuland Labs.,NEULANDLAB,ALL,4,2,0,2,HNI | FII,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia | Small Cap World Fund Inc | Jupiter India Fund,Small Cap World Fund Inc | Jupiter India Fund,
+Newgen Software,NEWGEN,ALL,3,0,1,2,HNI | FII,Mukul Mahavir Agrawal | Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P,,Goldman Sachs Funds - Goldman Sachs India Equity P
+Nuvama Wealth,NUVAMA,ALL,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
+OnMobile Global,ONMOBILE,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Oriental Rail,531859,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+P.E. Analytics,PROPEQUITY,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Paras Defence,PARAS,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+PDS,PDSL,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Pearl Global Ind,PGIL,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Prakash Industri,PRAKASH,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Prakash Pipes,PPL,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+PTC Industries,PTCIL,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Quick Heal Tech,QUICKHEAL,ALL,2,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Jupiter India Fund,,
+Raghav Product.,RPEL,ALL,2,0,0,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,
+Raymond,RAYMOND,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Religare Enterp.,RELIGARE,ALL,2,0,0,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,
+Rico Auto Inds,RICOAUTO,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Sahyadri Industr,SAHYADRI,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Sanghi Industrie,SANGHIIND,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Sanghvi Brands,540782,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Sarda Energy,SARDAEN,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Sequent Scien.,SEQUENT,ALL,2,0,1,2,HNI | DII,Mukul Mahavir Agrawal | Quant Mutual Fund - Quant Small Cap Fund,,Quant Mutual Fund - Quant Small Cap Fund
+SG Finserve,539199,ALL,2,0,1,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
+Shaily Engineer.,SHAILY,ALL,2,0,1,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
+Shankara Build.,SHANKARA,ALL,2,0,2,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia
+Solara Active,SOLARA,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Strides Pharma,STAR,ALL,3,0,0,3,HNI | DII | FII,Mukul Mahavir Agrawal | Kotak Emergency Equity Scheme | Small Cap World Fund Inc,,
+Stylam Industrie,STYLAMIND,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Sula Vineyards,SULA,ALL,3,0,1,2,HNI | FII,Mukul Mahavir Agrawal | Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,,Goldman Sachs Funds - Goldman Sachs India Equity P
+Surya Roshni,SURYAROSNI,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Suryoday Small,SURYODAY,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Suzlon Energy,SUZLON,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+TAAL Enterprises,539956,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Tasty Bite Eat.,TASTYBITE,ALL,2,0,0,2,HNI | FII,Mukul Mahavir Agrawal | Jupiter India Fund,,
+Thejo Engg.,THEJO,ALL,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
+Thomas Cook (I),THOMASCOOK,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Tracxn Technolo.,TRACXN,ALL,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
+Transpek Inds.,TRANSPEK,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Umang Dairies,UMANGDAIRY,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Vardhman Special,VSSL,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Vasa Denticity,DENTALKART,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Vidhi Specialty,VIDHIING,ALL,1,0,0,1,HNI,Mukul Mahavir Agrawal,,
+Zen Technologies,ZENTEC,ALL,2,0,1,1,HNI,Mukul Mahavir Agrawal | Ashish Rameshchandra Kacholia,,Mukul Mahavir Agrawal
+Zota Health Care,ZOTA,ALL,1,0,1,1,HNI,Mukul Mahavir Agrawal,,Mukul Mahavir Agrawal
+Aditya Vision,540205,ALL,2,0,2,2,HNI | FII,Ashish Rameshchandra Kacholia | Small Cap World Fund Inc,,Ashish Rameshchandra Kacholia | Small Cap World Fund Inc
+Ador Welding,ADORWELD,ALL,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
+Agarwal Indl.,AGARIND,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Ami Organics,AMIORG,ALL,2,0,1,2,HNI | FII,Ashish Rameshchandra Kacholia | Small Cap World Fund Inc,,Ashish Rameshchandra Kacholia
+APL Apollo Tubes,APLAPOLLO,ALL,4,0,0,3,HNI | DII | FII,Ashish Rameshchandra Kacholia | Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,
+Apollo Tricoat,538566,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Aptech,APTECHT,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Ashiana Housing,ASHIANA,ALL,2,0,0,2,HNI | FII,Ashish Rameshchandra Kacholia | Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Astec Lifescienc,ASTEC,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Aurum Proptech,AURUM,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+AYM Syntex,AYMSYNTEX,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Balu Forge,BALUFORGE,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Barbeque-Nation,BARBEQUE,ALL,2,1,1,2,HNI | FII,Ashish Rameshchandra Kacholia | Massachusetts Institue of Technology,Massachusetts Institue of Technology,Ashish Rameshchandra Kacholia
+Best Agrolife,BESTAGRO,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Beta Drugs Ltd,BETA,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Bodal Chemicals,BODALCHEM,ALL,2,0,0,2,HNI | FII,Ashish Rameshchandra Kacholia | Jupiter India Fund,,
+Butterfly Gan Ap,BUTTERFLY,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Caplin Point Lab,CAPLIPOINT,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Carysil,CARYSIL,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+CHD Developers,526917,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+D-Link India,DLINKINDIA,ALL,2,0,0,2,HNI | DII,Ashish Rameshchandra Kacholia | Kotak Emergency Equity Scheme,,
+DFM Foods,DFMFOODS,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+DU Digital,DUGLOBAL,ALL,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
+Ester Industries,ESTER,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Faze Three,FAZE3Q,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Fineotex Chem,FCL,ALL,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
+Garware Hi Tech,GRWRHITECH,ALL,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
+Gateway Distr.,GDL,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Genesys Intl.,GENESYS,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+GHCL,GHCL,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Gravita India,GRAVITA,ALL,2,1,1,2,HNI | FII,Ashish Rameshchandra Kacholia | Jupiter India Fund,Jupiter India Fund,Ashish Rameshchandra Kacholia
+GTPL Hathway,GTPL,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Hikal,HIKAL,ALL,2,0,0,2,HNI | FII,Ashish Rameshchandra Kacholia | Small Cap World Fund Inc,,
+HLE Glascoat,HLEGLAS,ALL,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
+IFB Industries,IFBIND,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Igarashi Motors,IGARASHI,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Inflame Applian.,541083,ALL,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
+IOL Chemicals,IOLCP,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+KEI Industries,KEI,ALL,4,0,1,2,HNI | FII,Ashish Rameshchandra Kacholia | Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,Small Cap World Fund Inc
+Khadim India,KHADIM,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Knowledge Marine,543273,ALL,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
+KPIT Technologi.,KPITTECH,ALL,2,0,0,2,HNI | FII,Ashish Rameshchandra Kacholia | Massachusetts Institue of Technology,,
+Kwality Pharma,539997,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+La Opala RG,LAOPALA,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Likhitha Infra.,LIKHITHA,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Lokesh Mach.,LOKESHMACH,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Megastar Foods,MEGASTAR,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Mold-Tek Pack.,MOLDTKPAC,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+MT Educare,MTEDUCARE,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Navin Fluo.Intl.,NAVINFLUOR,ALL,3,0,0,2,HNI | FII,Ashish Rameshchandra Kacholia | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,
+NIIT Learning,NIITMTS,ALL,2,0,2,2,HNI | FII,Ashish Rameshchandra Kacholia | Massachusetts Institue of Technology,,Ashish Rameshchandra Kacholia | Massachusetts Institue of Technology
+NIIT,NIITLTD,ALL,2,0,1,2,HNI | FII,Ashish Rameshchandra Kacholia | Massachusetts Institue of Technology,,Massachusetts Institue of Technology
+NOCIL,NOCIL,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Paushak,532742,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+PCBL Ltd,PCBL,ALL,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
+Pokarna,POKARNA,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Poly Medicure,POLYMED,ALL,3,0,0,3,HNI | DII | FII,Ashish Rameshchandra Kacholia | Quant Mutual Fund - Quant Small Cap Fund | Small Cap World Fund Inc,,
+Rainbow Child.,RAINBOW,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Royal Orch.Hotel,ROHLTD,ALL,2,0,0,2,HNI | FII,Ashish Rameshchandra Kacholia | Jupiter India Fund,,
+SJS Enterprises,SJS,ALL,2,1,0,2,HNI | FII,Ashish Rameshchandra Kacholia | Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+S P Apparels,SPAL,ALL,2,0,0,2,HNI | FII,Ashish Rameshchandra Kacholia | Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Safari Inds.,SAFARI,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Sastasundar Ven.,SASTASUNDR,ALL,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
+Shreyas Shipping,SHREYAS,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Stove Kraft,STOVEKRAFT,ALL,2,0,0,2,HNI | FII,Ashish Rameshchandra Kacholia | Goldman Sachs Funds - Goldman Sachs India Equity P,,
+TARC Ltd,TARC,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Time Technoplast,TIMETECHNO,ALL,2,1,0,2,HNI | DII,Ashish Rameshchandra Kacholia | 3P India Equity Fund 1,3P India Equity Fund 1,
+UFO Moviez,UFO,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+United Drilling,UNIDT,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+V2 Retail,V2RETAIL,ALL,2,0,0,2,HNI | FII,Ashish Rameshchandra Kacholia | Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Vadilal Inds.,VADILALIND,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Venus Pipes,VENUSPIPES,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Virtuoso Optoel.,543597,ALL,1,0,1,1,HNI,Ashish Rameshchandra Kacholia,,Ashish Rameshchandra Kacholia
+Vishnu Chemicals,VISHNU,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Vivimed Labs.,VIVIMEDLAB,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+VRL Logistics,VRLLOG,ALL,2,0,0,2,HNI | FII,Ashish Rameshchandra Kacholia | Goldman Sachs Funds - Goldman Sachs India Equity P,,
+XPRO India,XPROINDIA,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Yasho Industries,YASHO,ALL,1,0,0,1,HNI,Ashish Rameshchandra Kacholia,,
+Bajaj Holdings,BAJAJHLDNG,ALL,1,1,0,1,DII,Parag Parikh Flexi Cap Fund,Parag Parikh Flexi Cap Fund,
+Balkrishna Inds,BALKRISIND,ALL,2,1,0,1,DII,Parag Parikh Flexi Cap Fund | Kotak Emergency Equity Scheme,Parag Parikh Flexi Cap Fund,
+C D S L,CDSL,ALL,1,1,0,1,DII,Parag Parikh Flexi Cap Fund,Parag Parikh Flexi Cap Fund,
+Coal India,COALINDIA,ALL,1,1,0,1,DII,Parag Parikh Flexi Cap Fund,Parag Parikh Flexi Cap Fund,
+EID Parry,EIDPARRY,ALL,2,0,1,1,DII,Parag Parikh Flexi Cap Fund | Quant Mutual Fund - Quant Small Cap Fund,,Quant Mutual Fund - Quant Small Cap Fund
+Hero Motocorp,HEROMOTOCO,ALL,1,0,0,1,DII,Parag Parikh Flexi Cap Fund,,
+ICRA,ICRA,ALL,2,0,0,2,DII | FII,Parag Parikh Flexi Cap Fund | Small Cap World Fund Inc,,
+Indian Energy Ex,IEX,ALL,4,1,0,2,DII | FII,Parag Parikh Flexi Cap Fund | Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,Massachusetts Institue of Technology,
+Indraprastha Gas,IGL,ALL,1,0,1,1,DII,Parag Parikh Flexi Cap Fund,,Parag Parikh Flexi Cap Fund
+Ipca Labs.,IPCALAB,ALL,4,2,0,2,DII | FII,Parag Parikh Flexi Cap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme,
+Mah. Scooters,MAHSCOOTER,ALL,1,1,0,1,DII,Parag Parikh Flexi Cap Fund,Parag Parikh Flexi Cap Fund,
+Motil.Oswal.Fin.,MOTILALOFS,ALL,1,0,1,1,DII,Parag Parikh Flexi Cap Fund,,Parag Parikh Flexi Cap Fund
+Multi Comm. Exc.,MCX,ALL,3,0,0,2,DII | FII,Parag Parikh Flexi Cap Fund | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,
+Persistent Sys,PERSISTENT,ALL,3,1,0,1,DII,Parag Parikh Flexi Cap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme,Kotak Emergency Equity Scheme,
+Power Grid Corpn,POWERGRID,ALL,1,0,1,1,DII,Parag Parikh Flexi Cap Fund,,Parag Parikh Flexi Cap Fund
+Atul,ATUL,ALL,3,0,3,1,DII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme,,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme
+Bayer Crop Sci.,BAYERCROP,ALL,1,0,1,1,DII,Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
+Bharat Forge,BHARATFORG,ALL,2,1,0,1,DII,Mirae Asset Large &amp; Midcap Fund | Kotak Emergency Equity Scheme,Mirae Asset Large &amp; Midcap Fund,
+Coforge,COFORGE,ALL,5,2,1,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,Kotak Emergency Equity Scheme
+Craftsman Auto,CRAFTSMAN,ALL,1,1,0,1,DII,Mirae Asset Large &amp; Midcap Fund,Mirae Asset Large &amp; Midcap Fund,
+Data Pattern,DATAPATTNS,ALL,1,0,1,1,DII,Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
+Deepak Nitrite,DEEPAKNTR,ALL,1,1,0,1,DII,Mirae Asset Large &amp; Midcap Fund,Mirae Asset Large &amp; Midcap Fund,
+Delhivery,DELHIVERY,ALL,2,2,0,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Small Cap World Fund Inc,Mirae Asset Large &amp; Midcap Fund | Small Cap World Fund Inc,
+Eicher Motors,EICHERMOT,ALL,1,0,1,1,DII,Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
+Fortis Health.,FORTIS,ALL,2,1,1,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Jupiter India Fund,Jupiter India Fund,Mirae Asset Large &amp; Midcap Fund
+Gateway Distri,GATEWAY,ALL,1,0,0,1,DII,Mirae Asset Large &amp; Midcap Fund,,
+Gland Pharma,GLAND,ALL,4,2,0,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Small Cap World Fund Inc,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,
+Go Digit General,GODIGIT,ALL,1,1,0,1,DII,Mirae Asset Large &amp; Midcap Fund,Mirae Asset Large &amp; Midcap Fund,
+Guj.St.Petronet,GSPL,ALL,2,1,0,1,DII,Mirae Asset Large &amp; Midcap Fund | Kotak Emergency Equity Scheme,Mirae Asset Large &amp; Midcap Fund,
+L&T Finance Ltd,LTF,ALL,2,1,0,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Small Cap World Fund Inc,Mirae Asset Large &amp; Midcap Fund,
+Lupin,LUPIN,ALL,1,1,0,1,DII,Mirae Asset Large &amp; Midcap Fund,Mirae Asset Large &amp; Midcap Fund,
+Motherson Wiring,MSUMI,ALL,1,0,0,1,DII,Mirae Asset Large &amp; Midcap Fund,,
+Page Industries,PAGEIND,ALL,3,1,0,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Kotak Emergency Equity Scheme | Small Cap World Fund Inc,Mirae Asset Large &amp; Midcap Fund,
+PB Fintech.,POLICYBZR,ALL,3,1,2,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Mirae Asset Large &amp; Midcap Fund | Small Cap World Fund Inc
+Prestige Estates,PRESTIGE,ALL,2,0,1,2,DII | FII,Mirae Asset Large &amp; Midcap Fund | Goldman Sachs Funds - Goldman Sachs India Equity P,,Mirae Asset Large &amp; Midcap Fund
+Prince Pipes,PRINCEPIPE,ALL,1,0,1,1,DII,Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
+Sapphire Foods,SAPPHIRE,ALL,1,0,1,1,DII,Mirae Asset Large &amp; Midcap Fund,,Mirae Asset Large &amp; Midcap Fund
+SKF India,SKFINDIA,ALL,3,0,2,1,DII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme,,Mirae Asset Large &amp; Midcap Fund | Kotak Emergency Equity Scheme
+Tata Comm,TATACOMM,ALL,2,0,2,1,DII,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Mirae Asset Large &amp; Midcap Fund | Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
+Whirlpool India,WHIRLPOOL,ALL,2,1,1,1,DII,Mirae Asset Large &amp; Midcap Fund | Kotak Emergency Equity Scheme,Mirae Asset Large &amp; Midcap Fund,Kotak Emergency Equity Scheme
+Ashoka Buildcon,ASHOKA,ALL,1,0,0,1,DII,3P India Equity Fund 1,,
+Landmark Cars,LANDMARK,ALL,2,1,1,2,DII | FII,3P India Equity Fund 1 | Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,3P India Equity Fund 1
+Senco Gold,SENCO,ALL,1,0,0,1,DII,3P India Equity Fund 1,,
+AIA Engineering,AIAENG,ALL,2,1,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | NALANDA INDIA EQUITY FUND nLIMITED,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,NALANDA INDIA EQUITY FUND nLIMITED
+Arvind Ltd,ARVIND,ALL,1,0,1,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
+AU Small Finance,AUBANK,ALL,2,1,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Small Cap World Fund Inc
+Bharat Electron,BEL,ALL,1,0,1,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
+Cummins India,CUMMINSIND,ALL,3,1,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Small Cap World Fund Inc,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Kotak Emergency Equity Scheme
+Dhanuka Agritech,DHANUKA,ALL,1,0,0,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,
+Dixon Technolog.,DIXON,ALL,3,0,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P,,Kotak Emergency Equity Scheme
+Greenpanel Inds.,GREENPANEL,ALL,1,0,1,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
+H P C L,HINDPETRO,ALL,3,1,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Jupiter India Fund,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Kotak Emergency Equity Scheme
+Indian Hotels Co,INDHOTEL,ALL,1,0,0,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,
+Jindal Steel,JINDALSTEL,ALL,1,1,0,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,
+K E C Intl.,KEC,ALL,1,0,1,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
+KNR Construct.,KNRCON,ALL,1,1,0,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,
+Max Healthcare,MAXHEALTH,ALL,2,0,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,,Small Cap World Fund Inc
+RBL Bank,RBLBANK,ALL,1,0,0,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,
+Redington,REDINGTON,ALL,2,0,1,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Massachusetts Institue of Technology,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
+Solar Industries,SOLARINDS,ALL,2,0,2,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme
+Supreme Inds.,SUPREMEIND,ALL,3,0,0,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Kotak Emergency Equity Scheme | Small Cap World Fund Inc,,
+Symphony,SYMPHONY,ALL,1,0,1,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
+Tata Chemicals,TATACHEM,ALL,1,0,1,1,DII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund,,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund
+Zee Entertainmen,ZEEL,ALL,2,0,0,2,DII | FII,Hdfc Mutual Fund-Hdfc Mid-Cap Oppurtunities Fund | Small Cap World Fund Inc,,
+Amara Raja Ener.,ARE&M,ALL,3,0,1,2,DII | FII,Kotak Emergency Equity Scheme | Small Cap World Fund Inc | NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+Bata India,BATAINDIA,ALL,1,0,0,1,DII,Kotak Emergency Equity Scheme,,
+Blue Star,BLUESTARCO,ALL,1,1,0,1,DII,Kotak Emergency Equity Scheme,Kotak Emergency Equity Scheme,
+City Union Bank,CUB,ALL,2,1,0,2,DII | FII,Kotak Emergency Equity Scheme | Small Cap World Fund Inc,Small Cap World Fund Inc,
+Emami,EMAMILTD,ALL,1,1,0,1,DII,Kotak Emergency Equity Scheme,Kotak Emergency Equity Scheme,
+ERIS Lifescience,ERIS,ALL,2,0,0,2,DII | FII,Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Eveready Inds.,EVEREADY,ALL,2,0,0,2,DII | FII,Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Exide Inds.,EXIDEIND,ALL,2,0,0,2,DII | FII,Kotak Emergency Equity Scheme | NALANDA INDIA EQUITY FUND nLIMITED,,
+Finolex Cables,FINCABLES,ALL,1,0,0,1,DII,Kotak Emergency Equity Scheme,,
+GMM Pfaudler,GMMPFAUDLR,ALL,1,0,0,1,DII,Kotak Emergency Equity Scheme,,
+Godrej Agrovet,GODREJAGRO,ALL,1,0,0,1,DII,Kotak Emergency Equity Scheme,,
+Hawkins Cookers,HAWKINCOOK,ALL,1,0,0,1,DII,Kotak Emergency Equity Scheme,,
+J K Cements,JKCEMENT,ALL,1,0,0,1,DII,Kotak Emergency Equity Scheme,,
+Kajaria Ceramics,KAJARIACER,ALL,3,1,0,2,DII | FII,Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,Kotak Emergency Equity Scheme,
+Kalpataru Proj.,KPIL,ALL,1,0,0,1,DII,Kotak Emergency Equity Scheme,,
+Kewal Kir.Cloth.,KKCL,ALL,1,0,1,1,DII,Kotak Emergency Equity Scheme,,Kotak Emergency Equity Scheme
+Kirloskar Oil,KIRLOSENG,ALL,2,0,0,2,DII | FII,Kotak Emergency Equity Scheme | NALANDA INDIA EQUITY FUND nLIMITED,,
+Larsen & Toubro,LT,ALL,1,0,0,1,DII,Kotak Emergency Equity Scheme,,
+Navneet Educat.,NAVNETEDUL,ALL,1,0,0,1,DII,Kotak Emergency Equity Scheme,,
+Oberoi Realty,OBEROIRLTY,ALL,1,1,0,1,DII,Kotak Emergency Equity Scheme,Kotak Emergency Equity Scheme,
+P I Industries,PIIND,ALL,2,0,0,2,DII | FII,Kotak Emergency Equity Scheme | Small Cap World Fund Inc,,
+PNC Infratech,PNCINFRA,ALL,2,0,2,2,DII | FII,Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P,,Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P
+Ratnamani Metals,RATNAMANI,ALL,2,1,1,2,DII | FII,Kotak Emergency Equity Scheme | NALANDA INDIA EQUITY FUND nLIMITED,Kotak Emergency Equity Scheme,NALANDA INDIA EQUITY FUND nLIMITED
+Schaeffler India,SCHAEFFLER,ALL,1,0,1,1,DII,Kotak Emergency Equity Scheme,,Kotak Emergency Equity Scheme
+Sheela Foam,SFL,ALL,2,0,1,2,DII | FII,Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P,,Kotak Emergency Equity Scheme
+SRF,SRF,ALL,2,0,0,2,DII | FII,Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Sundaram Finance,SUNDARMFIN,ALL,2,0,1,2,DII | FII,Kotak Emergency Equity Scheme | NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+Sundram Fasten.,SUNDRMFAST,ALL,1,0,0,1,DII,Kotak Emergency Equity Scheme,,
+Thermax,THERMAX,ALL,3,0,1,2,DII | FII,Kotak Emergency Equity Scheme | Goldman Sachs Funds - Goldman Sachs India Equity P | NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+V-Guard Industri,VGUARD,ALL,2,0,2,2,DII | FII,Kotak Emergency Equity Scheme | NALANDA INDIA EQUITY FUND nLIMITED,,Kotak Emergency Equity Scheme | NALANDA INDIA EQUITY FUND nLIMITED
+WPIL,505872,ALL,2,0,0,2,DII | FII,Kotak Emergency Equity Scheme | Massachusetts Institue of Technology,,
+Zuari Agro Chem.,ZUARI,ALL,1,0,0,1,DII,Kotak Emergency Equity Scheme,,
+Aarti Pharma,AARTIPHARM,ALL,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
+Anupam Rasayan,ANURAS,ALL,2,0,0,2,DII | FII,Quant Mutual Fund - Quant Small Cap Fund | Small Cap World Fund Inc,,
+Apeejay Surrend.,PARKHOTELS,ALL,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
+Britannia Inds.,BRITANNIA,ALL,1,0,1,1,DII,Quant Mutual Fund - Quant Small Cap Fund,,Quant Mutual Fund - Quant Small Cap Fund
+Engineers India,ENGINERSIN,ALL,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
+Exicom Tele-Sys.,EXICOM,ALL,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
+Gopal Snacks,GOPAL,ALL,1,0,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,,
+H U D C O,HUDCO,ALL,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
+INDIA SHELTE FIN,INDIASHLTR,ALL,2,1,1,2,DII | FII,Quant Mutual Fund - Quant Small Cap Fund | Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,Quant Mutual Fund - Quant Small Cap Fund
+Indoco Remedies,INDOCO,ALL,1,0,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,,
+Indrapr.Medical,INDRAMEDCO,ALL,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
+Jash Engineering,JASH,ALL,1,0,1,1,DII,Quant Mutual Fund - Quant Small Cap Fund,,Quant Mutual Fund - Quant Small Cap Fund
+Jubilant Pharmo,JUBLPHARMA,ALL,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
+Metropolis Healt,METROPOLIS,ALL,2,0,1,2,DII | FII,Quant Mutual Fund - Quant Small Cap Fund | Small Cap World Fund Inc,,Quant Mutual Fund - Quant Small Cap Fund
+Neogen Chemicals,NEOGEN,ALL,1,0,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,,
+Prime Securities,PRIMESECU,ALL,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
+Sai Silks,KALAMANDIR,ALL,1,0,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,,
+S C I,SCI,ALL,1,1,0,1,DII,Quant Mutual Fund - Quant Small Cap Fund,Quant Mutual Fund - Quant Small Cap Fund,
+Thyrocare Tech.,THYROCARE,ALL,2,1,0,2,DII | FII,Quant Mutual Fund - Quant Small Cap Fund | NALANDA INDIA EQUITY FUND nLIMITED,Quant Mutual Fund - Quant Small Cap Fund,
+Va Tech Wabag,WABAG,ALL,3,0,1,2,DII | FII,Quant Mutual Fund - Quant Small Cap Fund | Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P,,Quant Mutual Fund - Quant Small Cap Fund
+Vishnu Prakash R,VPRPL,ALL,1,0,1,1,DII,Quant Mutual Fund - Quant Small Cap Fund,,Quant Mutual Fund - Quant Small Cap Fund
+Accuracy Shippi.,ACCURACY,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
+Action Const.Eq.,ACE,ALL,1,0,1,1,FII,Massachusetts Institue of Technology,,Massachusetts Institue of Technology
+Ahlada Engineers,AHLADA,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
+Antony Waste han,AWHCL,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
+Calcom Vision,517236,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
+Carborundum Uni.,CARBORUNIV,ALL,3,0,0,1,FII,Massachusetts Institue of Technology | Small Cap World Fund Inc | NALANDA INDIA EQUITY FUND nLIMITED,,
+Chambal Fert.,CHAMBLFERT,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
+CMS Info Systems,CMSINFO,ALL,3,1,0,1,FII,Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,Goldman Sachs Funds - Goldman Sachs India Equity P,
+Equitas Holdings,EQUITAS,ALL,2,0,0,1,FII,Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Equitas Sma. Fin,EQUITASBNK,ALL,1,0,1,1,FII,Massachusetts Institue of Technology,,Massachusetts Institue of Technology
+Fairchem Organic,FAIRCHEMOR,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
+Fusion Microfin.,FUSION,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
+Glenmark Life,GLS,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
+Globus Spirits,GLOBUSSPR,ALL,1,0,1,1,FII,Massachusetts Institue of Technology,,Massachusetts Institue of Technology
+Guj. Ambuja Exp,GAEL,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
+Hitachi Energy,POWERINDIA,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
+ITD Cem,ITDCEM,ALL,1,0,1,1,FII,Massachusetts Institue of Technology,,Massachusetts Institue of Technology
+J.G.Chemicals,JGCHEM,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
+Kaveri Seed Co.,KSCL,ALL,2,0,0,1,FII,Massachusetts Institue of Technology | Jupiter India Fund,,
+Macpower CNC,MACPOWER,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
+Matrimony.com,MATRIMONY,ALL,4,0,1,1,FII,Massachusetts Institue of Technology | Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc | NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+NCC,NCC,ALL,2,0,1,1,FII,Massachusetts Institue of Technology | Small Cap World Fund Inc,,Small Cap World Fund Inc
+Orchid Pharma,ORCHPHARMA,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
+Satin Creditcare,SATIN,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
+SBFC Finance,SBFC,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
+Snowman Logistic,SNOWMAN,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
+Srikalahas. Pip.,SRIPIPES,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
+Star Health Insu,STARHEALTH,ALL,1,0,1,1,FII,Massachusetts Institue of Technology,,Massachusetts Institue of Technology
+Thangamayil Jew.,THANGAMAYL,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
+Xelpmoc Design,XELPMOC,ALL,1,0,0,1,FII,Massachusetts Institue of Technology,,
+Aditya Bir. Fas.,ABFRL,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Angel One,ANGELONE,ALL,2,0,1,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,Small Cap World Fund Inc
+Apar Inds.,APARINDS,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Archean Chemical,ACI,ALL,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+Bajaj Consumer,BAJAJCON,ALL,2,0,2,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,,Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund
+BASF India,BASF,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Bharat Financial,BHARATFIN,ALL,2,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,
+Capital First,CAPF,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+CARE Ratings,CARERATING,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Cartrade Tech,CARTRADE,ALL,2,2,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,
+Century Plyboard,CENTURYPLY,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Century Textiles,CENTURYTEX,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Chalet Hotels,CHALET,ALL,2,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,
+Crompton Gr. Con,CROMPTON,ALL,2,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,
+Cyient,CYIENT,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+eClerx Services,ECLERX,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Escorts Kubota,ESCORTS,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Fine Organic,FINEORG,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Firstsour.Solu.,FSL,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Godrej Propert.,GODREJPROP,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Gokaldas Exports,GOKEX,ALL,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+Goodyear India,GOODYEAR,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Graphite India,GRAPHITE,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Grindwell Norton,GRINDWELL,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Happiest Minds,HAPPSTMNDS,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+IKIO Lighting,IKIO,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+India Cements,INDIACEM,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Inox India,INOXINDIA,ALL,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+Inox Leisure,INOXLEISUR,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+ISGEC Heavy,ISGEC,ALL,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+JK Lakshmi Cem.,JKLAKSHMI,ALL,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+Jupiter Life Lin,JLHL,ALL,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+Kaynes Tech,KAYNES,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+KFin Technolog.,KFINTECH,ALL,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+Kolte Patil Dev.,KOLTEPATIL,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Mahanagar Gas,MGL,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Mahindra Life.,MAHLIFE,ALL,2,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,Goldman Sachs Funds - Goldman Sachs India Equity P,
+Medplus Health,MEDPLUS,ALL,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+Monte Carlo Fas.,MONTECARLO,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Muthoot Finance,MUTHOOTFIN,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Paradeep Phosph.,PARADEEP,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Poddar Housing,PODDARHOUS,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Poonawalla Fin,POONAWALLA,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Prataap Snacks,DIAMONDYD,ALL,2,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,,
+PVR Inox,PVRINOX,ALL,2,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Small Cap World Fund Inc,Goldman Sachs Funds - Goldman Sachs India Equity P,
+Railtel Corpn.,RAILTEL,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Rategain Travel,RATEGAIN,ALL,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+RattanIndia Pow.,RTNPOWER,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Repco Home Fin,REPCOHOME,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Rossari Biotech,ROSSARI,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Route Mobile,ROUTE,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Shalby,SHALBY,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Sharda Cropchem,SHARDACROP,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Sonata Software,SONATSOFTW,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Spandana Sphoort,SPANDANA,ALL,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+Suven Pharma,SUVENPHAR,ALL,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+TCNS Clothing Co,TCNSBRANDS,ALL,2,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | NALANDA INDIA EQUITY FUND nLIMITED,,
+Team Lease Serv.,TEAMLEASE,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Texmaco Rail,TEXRAIL,ALL,2,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P | Jupiter India Fund,,
+Utkarsh Small F.,UTKARSHBNK,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Vodafone Idea,IDEA,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Voltas,VOLTAS,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+VST Till. Tract.,VSTTILLERS,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Welspun Corp,WELCORP,ALL,1,0,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,,
+Zensar Tech.,ZENSARTECH,ALL,1,1,0,1,FII,Goldman Sachs Funds - Goldman Sachs India Equity P,Goldman Sachs Funds - Goldman Sachs India Equity P,
+360 ONE,360ONE,ALL,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
+Aarti Industries,AARTIIND,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+AAVAS Financiers,AAVAS,ALL,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
+ACC,ACC,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Aegis Logistics,AEGISLOG,ALL,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
+Aptus Value Hou.,APTUS,ALL,1,1,0,1,FII,Small Cap World Fund Inc,Small Cap World Fund Inc,
+Aster DM Health.,ASTERDM,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Bajaj Electrical,BAJAJELEC,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Bajaj Finance,BAJFINANCE,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Canara Bank,CANBK,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+CCL Products,CCL,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Cholaman.Inv.&Fn,CHOLAFIN,ALL,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
+Cams Services,CAMS,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Cox & Kings Fin.,CKFSL,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Cox & Kings,COX&KINGS,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Dalmia Bhar.,33309,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Deepak Fertiliz.,DEEPAKFERT,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Devyani Intl.,DEVYANI,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Dreamfolks Servi,DREAMFOLKS,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Endurance Tech.,ENDURANCE,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Entero Healthcar,ENTERO,ALL,1,1,0,1,FII,Small Cap World Fund Inc,Small Cap World Fund Inc,
+EPL Ltd,EPL,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Five-Star Bus.Fi,FIVESTAR,ALL,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
+G R Infraproject,GRINFRA,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Glenmark Pharma.,GLENMARK,ALL,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
+GRUH Finance,GRUH,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Guj Pipavav Port,GPPL,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Gulf Oil Lubric.,GULFOILLUB,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Havells India,HAVELLS,ALL,2,0,1,1,FII,Small Cap World Fund Inc | NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+HDFC AMC,HDFCAMC,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Home First Finan,HOMEFIRST,ALL,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
+Honasa Consumer,HONASA,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+ICICI Securities,ISEC,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+IIFL Finance,IIFL,ALL,1,1,0,1,FII,Small Cap World Fund Inc,Small Cap World Fund Inc,
+Indigo Paints,INDIGOPNTS,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Inox Wind,INOXWIND,ALL,1,1,0,1,FII,Small Cap World Fund Inc,Small Cap World Fund Inc,
+Jamna Auto Inds.,JAMNAAUTO,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Kotak Mah. Bank,KOTAKBANK,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Manappuram Fin.,MANAPPURAM,ALL,1,1,0,1,FII,Small Cap World Fund Inc,Small Cap World Fund Inc,
+Max Financial,MFSL,ALL,2,0,0,1,FII,Small Cap World Fund Inc | Jupiter India Fund,,
+Mayur Uniquoters,MAYURUNIQ,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+MRF,MRF,ALL,2,0,2,1,FII,Small Cap World Fund Inc | NALANDA INDIA EQUITY FUND nLIMITED,,Small Cap World Fund Inc | NALANDA INDIA EQUITY FUND nLIMITED
+Petronet LNG,PETRONET,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Piramal Enterp.,PEL,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Quess Corp,QUESS,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Relaxo Footwear,RELAXO,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Reliance Communi,RCOM,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+S H Kelkar & Co.,SHK,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Sammaan Capital,SAMMAANCAP,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Shriram Finance,SHRIRAMFIN,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+SIS,SIS,ALL,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
+Suprajit Engg.,SUPRAJIT,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Talwal.Better,TALWALKARS,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Talwalkars Heal.,TALWGYM,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Tanla Platforms,TANLA,ALL,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
+TD Power Systems,TDPOWERSYS,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Titagarh Rail,TITAGARH,ALL,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
+Tube Investments,TIINDIA,ALL,1,0,1,1,FII,Small Cap World Fund Inc,,Small Cap World Fund Inc
+Varroc Engineer,VARROC,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Varun Beverages,VBL,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Westlife Food,WESTLIFE,ALL,1,0,0,1,FII,Small Cap World Fund Inc,,
+Advanced Enzyme,ADVENZYMES,ALL,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+Ahluwalia Contr.,AHLUCONT,ALL,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+D B Corp,DBCORP,ALL,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+Elgi Equipments,ELGIEQUIP,ALL,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+GE Shipping Co,GESHIP,ALL,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+Info Edg.(India),NAUKRI,ALL,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+Just Dial,JUSTDIAL,ALL,1,0,0,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,
+Jyothy Labs,JYOTHYLAB,ALL,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+Mindtree,MINDTREE,ALL,1,0,0,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,
+NRB Bearings,NRBBEARING,ALL,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+Triveni Turbine,TRITURBINE,ALL,2,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED | Jupiter India Fund,,NALANDA INDIA EQUITY FUND nLIMITED
+TTK Prestige,TTKPRESTIG,ALL,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+Volt.Transform.,VOLTAMP,ALL,1,0,1,1,FII,NALANDA INDIA EQUITY FUND nLIMITED,,NALANDA INDIA EQUITY FUND nLIMITED
+Apollo Micro Sys,APOLLO,ALL,1,0,0,1,FII,Jupiter India Fund,,
+Biocon,BIOCON,ALL,1,0,0,1,FII,Jupiter India Fund,,
+Dec.Gold Mines,512068,ALL,1,0,0,1,FII,Jupiter India Fund,,
+EIH Assoc.Hotels,EIHAHOTELS,ALL,1,0,0,1,FII,Jupiter India Fund,,
+Elpro Internatio,ELPROINTL,ALL,1,0,0,1,FII,Jupiter India Fund,,
+Equinox India,EMBDL,ALL,1,0,0,1,FII,Jupiter India Fund,,
+Force Motors,FORCEMOT,ALL,1,0,0,1,FII,Jupiter India Fund,,
+Godfrey Phillips,GODFRYPHLP,ALL,1,0,1,1,FII,Jupiter India Fund,,Jupiter India Fund
+KDDL Ltd,KDDL,ALL,1,0,0,1,FII,Jupiter India Fund,,
+Medi Assist Ser.,MEDIASSIST,ALL,1,1,0,1,FII,Jupiter India Fund,Jupiter India Fund,
+Milkfood,507621,ALL,1,0,1,1,FII,Jupiter India Fund,,Jupiter India Fund
+Olectra Greentec,OLECTRA,ALL,1,0,0,1,FII,Jupiter India Fund,,
+SML ISUZU,SMLISUZU,ALL,1,0,0,1,FII,Jupiter India Fund,,
+SpiceJet,SPICEJET,ALL,1,0,0,1,FII,Jupiter India Fund,,
+The Byke Hospi.,BYKE,ALL,1,0,0,1,FII,Jupiter India Fund,,
+TTK Healthcare,TTKHLTCARE,ALL,1,0,0,1,FII,Jupiter India Fund,,
+Yatharth Hospit.,YATHARTH,ALL,1,1,0,1,FII,Jupiter India Fund,Jupiter India Fund,
+Recent Adds: 91, Recent Dels: 137, All: 577 

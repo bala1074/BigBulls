@@ -35,6 +35,7 @@ for (const url of [...HNI, ...DII, ...FII]) {
   if (FII.includes(url)) investorType = "FII";
   BIGBULLS[url] = investorType;
 }
+const COMPANY_TO_TICKER_MAP = {};
 
 const puppeteer = require("puppeteer");
 const HtmlTableToJson = require("html-table-to-json");
@@ -61,14 +62,29 @@ async function fetchFromUrl(page, url) {
   // Wait for the "shareholdings" div to load
   await page.waitForSelector("#shareholdings");
 
-  const { key, tableHTML } = await page.evaluate(() => {
+  const { key, tableHTML, anchorTagsMap } = await page.evaluate(() => {
+    const anchorTags = document.querySelectorAll("a");
+    // Create a key-value map with text as the key and href as the value
+    const anchorTagsMap = {};
+    anchorTags.forEach((anchor) => {
+      const text = anchor.textContent.trim(); // Get the text content of the anchor
+      const href = anchor.href; // Get the href attribute of the anchor
+      if (text) {
+        // Ensure the text is not empty
+        anchorTagsMap[text] = href?.split("/company/")[1]?.split("/")[0];
+      }
+    });
+
     const key = document.querySelector("h1").innerHTML;
     const tableHTML = document.querySelector("#shareholdings")?.innerHTML;
-    return { key, tableHTML };
+    return { key, tableHTML, anchorTagsMap };
   });
   const formatVals = {};
   for (const item of HtmlTableToJson.parse(tableHTML)?.results[0]) {
-    formatVals[item["1"]] = { [key]: item };
+    const company = item["1"];
+    const ticker = anchorTagsMap[company];
+    COMPANY_TO_TICKER_MAP[company] = ticker;
+    formatVals[company] = { [key]: { ...item } };
   }
   return formatVals; // { company: {} }
 }
@@ -137,9 +153,9 @@ function log(res, type) {
   // `Company,Type,InvestedBy,RecentAdds,RecentDels,investorTypeCount,investorType,InvestedByList,RecentAddsList,RecentDelsList`;
   for (const item of res) {
     console.log(
-      `${item.company},${type},${item.investedBy.length},${
-        item.recentAdds.length
-      },${item.recentDels.length},${
+      `${item.company},${COMPANY_TO_TICKER_MAP[item.company]},${type},${
+        item.investedBy.length
+      },${item.recentAdds.length},${item.recentDels.length},${
         item.investorType.length
       },${item.investorType?.join(" | ")},${item.investedBy?.join(
         " | "
@@ -150,7 +166,7 @@ function log(res, type) {
 
 function logRes(res) {
   console.log(
-    `Company,Type,InvestedBy,RecentAdds,RecentDels,investorTypeCount,investorType,InvestedByList,RecentAddsList,RecentDelsList`
+    `Company,Ticker,Type,InvestedBy,RecentAdds,RecentDels,investorTypeCount,investorType,InvestedByList,RecentAddsList,RecentDelsList`
   );
   // recent adds
   let recentAdds = [...res];
